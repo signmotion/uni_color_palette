@@ -18,6 +18,8 @@ Feel free to use it in your awesome projects.
 
 The [UniColorName](https://github.com/signmotion/uni_color_name) package supports a fuzzy search for a color by value and name.
 
+[<img src="https://raw.githubusercontent.com/signmotion/uni_color_model/master/images/dependencies.webp"/>](https://raw.githubusercontent.com/signmotion/uni_color_model/master/images/dependencies.webp)
+
 | Android | iOS | Linux | MacOS | Web | Windows |              |
 | :-----: | :-: | :---: | :---: | :-: | :-----: | :----------- |
 |   ✅    | ✅  |  ✅   |  ✅   |  ✘  |   ✅    | **platform** |
