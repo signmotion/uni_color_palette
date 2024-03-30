@@ -1,0 +1,103 @@
+{
+  "dropRootKeys": true,
+  "special-values-mapping": {
+    "null": "null",
+    "empty": "",
+    "true": "true",
+    "false": "false"
+  },
+  "map": [
+    [
+      "code",
+      "code"
+    ],
+    [
+      "scope",
+      "scope"
+    ],
+    [
+      "color_hex",
+      "color.hex"
+    ],
+    [
+      "color_websafe",
+      "color.websafe"
+    ],
+    [
+      "color_rgb_r",
+      "color.rgb.r"
+    ],
+    [
+      "color_rgb_g",
+      "color.rgb.g"
+    ],
+    [
+      "color_rgb_b",
+      "color.rgb.b"
+    ],
+    [
+      "color_hsl_h",
+      "color.hsl.h"
+    ],
+    [
+      "color_hsl_s",
+      "color.hsl.s"
+    ],
+    [
+      "color_hsl_l",
+      "color.hsl.l"
+    ],
+    [
+      "color_hsb_h",
+      "color.hsb.h"
+    ],
+    [
+      "color_hsb_s",
+      "color.hsb.s"
+    ],
+    [
+      "color_hsb_b",
+      "color.hsb.b"
+    ],
+    [
+      "color_cmyk_c",
+      "color.cmyk.c"
+    ],
+    [
+      "color_cmyk_m",
+      "color.cmyk.m"
+    ],
+    [
+      "color_cmyk_y",
+      "color.cmyk.y"
+    ],
+    [
+      "color_cmyk_k",
+      "color.cmyk.k"
+    ],
+    [
+      "names_de",
+      "names.de"
+    ],
+    [
+      "names_en",
+      "names.en"
+    ],
+    [
+      "names_fr",
+      "names.fr"
+    ],
+    [
+      "names_es",
+      "names.es"
+    ],
+    [
+      "names_it",
+      "names.it"
+    ],
+    [
+      "names_nl",
+      "names.nl"
+    ]
+  ]
+}

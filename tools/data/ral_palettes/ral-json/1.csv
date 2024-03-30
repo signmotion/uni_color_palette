@@ -1,0 +1,214 @@
+code,scope,color_hex,color_websafe,color_rgb_r,color_rgb_g,color_rgb_b,color_hsl_h,color_hsl_s,color_hsl_l,color_hsb_h,color_hsb_s,color_hsb_b,color_cmyk_c,color_cmyk_m,color_cmyk_y,color_cmyk_k,names_de,names_en,names_fr,names_es,names_it,names_nl
+1000,classic,#CDBA88,#cccc99,205,186,136,43,41,67,43,34,80,5,10,40,10,GrÃ¼nbeige,Green beige,Beige vert,Beige verdoso,Beige verdastro,Groenbeige
+1001,classic,#D0B084,#cc9999,208,176,132,35,45,67,35,37,82,5,20,40,10,Beige,Beige,Beige,Beige,Beige,Beige
+1002,classic,#D2AA6D,#cc9966,210,170,109,36,53,63,36,48,82,5,20,50,10,Sandgelb,Sand yellow,Jaune sable,Amarillo arena,Giallo sabbia,Zandgeel
+1003,classic,#F9A800,#ff9900,249,168,0,40,100,49,40,100,98,0,35,100,0,Signalgelb,Signal yellow,Jaune de sÃ©curitÃ©,Amarillo seÃ±ales,Giallo segnale,Signaalgeel
+1004,classic,#E49E00,#cc9900,228,158,0,42,100,45,42,100,89,10,35,100,0,Goldgelb,Golden yellow,Jaune or,Amarillo oro,Giallo oro,Goudgeel
+1005,classic,#CB8E00,#cc9900,203,142,0,42,100,40,42,100,80,0,30,100,0,Honiggelb,Honey yellow,Jaune miel,Amarillo miel,Giallo miele,Honinggeel
+1006,classic,#E29000,#cc9900,226,144,0,38,100,44,38,100,89,0,40,100,0,Maisgelb,Maize yellow,Jaune maÃ¯s,Amarillo maiz,Giallo polenta,Maisgeel
+1007,classic,#E88C00,#ff9900,232,140,0,36,100,45,36,100,91,0,50,100,0,Narzissengelb,Daffodil yellow,Jaune narcisse,Amarillo narciso,Giallo narciso,Narcissengeel
+1011,classic,#AF804F,#999966,175,128,79,31,38,50,31,55,69,20,40,60,0,Braunbeige,Brown beige,Beige brun,Beige pardo,Beige marrone,Bruinbeige
+1012,classic,#DDAF27,#cc9933,221,175,39,45,73,51,45,82,87,5,20,100,0,Zitronengelb,Lemon yellow,Jaune citron,Amarillo limÃ³n,Giallo limone,Citroengeel
+1013,classic,#E3D9C6,#cccccc,227,217,198,39,34,83,39,13,89,5,10,20,0,PerlweiÃŸ,Oyster white,Blanc perlÃ©,Blanco perla,Bianco perla,Parelwit
+1014,classic,#DDC49A,#cccc99,221,196,154,38,50,74,38,30,87,5,20,50,0,Elfenbein,Ivory,Ivoire,Marfil,Avorio,Ivoorkleurig
+1015,classic,#E6D2B5,#ffcccc,230,210,181,36,49,81,36,21,90,5,10,30,0,Hellelfenbein,Light ivory,Ivoire clair,Marfil claro,Avorio chiaro,Licht ivoorkleurig
+1016,classic,#F1DD38,#ffcc33,241,221,56,54,87,58,54,77,95,5,0,90,0,Schwefelgelb,Sulfur yellow,Jaune soufre,Amarillo azufre,Giallo zolfo,Zwavelgeel
+1017,classic,#F6A950,#ff9966,246,169,80,32,90,64,32,67,96,0,40,100,0,Safrangelb,Saffron yellow,Jaune safran,Amarillo azafrÃ¡n,Giallo zafferano,Saffraangeel
+1018,classic,#FACA30,#ffcc33,250,202,48,46,95,58,46,81,98,0,15,100,0,Zinkgelb,Zinc yellow,Jaune zinc,Amarillo de zinc,Giallo zinco,Zinkgeel
+1019,classic,#A48F7A,#999966,164,143,122,30,19,56,30,26,64,0,15,40,45,Graubeige,Grey beige,Beige gris,Beige agrisado,Beige grigiastro,Grijsbeige
+1020,classic,#A08F65,#999966,160,143,101,43,24,51,43,37,63,30,25,60,20,Olivgelb,Olive yellow,Jaune olive,Amarillo oliva,Giallo olivastro,Olijfgeel
+1021,classic,#F6B600,#ffcc00,246,182,0,44,100,48,44,100,96,0,5,100,0,Rapsgelb,Colza yellow,Jaune colza,Amarillo colza,Giallo navone,Koolzaadgeel
+1023,classic,#F7B500,#ffcc00,247,181,0,44,100,48,44,100,97,0,25,100,0,Verkehrsgelb,Traffic yellow,Jaune signalisation,Amarillo trÃ¡fico,Giallo traffico,Verkeersgeel
+1024,classic,#BA8F4C,#cc9933,186,143,76,37,44,51,37,59,73,5,30,80,30,Ockergelb,Ochre yellow,Jaune ocre,Amarillo ocre,Giallo ocra,Okergeel
+1026,classic,#FFFF00,#ffff00,255,255,0,60,100,50,60,100,100,5,0,100,0,Leuchtgelb,Luminous yellow,Jaune brillant,Amarillo brillante,Giallo brillante,Briljantgeel
+1027,classic,#A77F0E,#996600,167,127,14,44,85,35,44,92,65,5,10,100,40,Currygelb,Curry,Jaune curry,Amarillo curry,Giallo curry,Kerriegeel
+1028,classic,#FF9B00,#ff9900,255,155,0,36,100,50,36,100,100,0,40,100,0,Melonengelb,Melon yellow,Jaune melon,Amarillo melÃ³n,Giallo melone,Meloengeel
+1032,classic,#E2A300,#cc9900,226,163,0,43,100,44,43,100,89,15,40,100,0,Ginstergelb,Broom yellow,Jaune genÃªt,Amarillo retama,Giallo scopa,Bremgeel
+1033,classic,#F99A1C,#ff9933,249,154,28,34,95,54,34,89,98,0,50,100,0,Dahliengelb,Dahlia yellow,Jaune dahlia,Amarillo dalia,Giallo dahlien,Dahliageel
+1034,classic,#EB9C52,#ff9966,235,156,82,29,79,62,29,65,92,0,45,70,0,Pastellgelb,Pastel yellow,Jaune pastel,Amarillo pastel,Giallo pastello,Pastelgeel
+1035,classic,#908370,#999966,144,131,112,36,13,50,36,22,56,10,25,40,40,Perlbeige,Pearl beige,Beige nacrÃ©,Beige perlado,Beige perlato,Parelmoer grijs
+1036,classic,#80643F,#996633,128,100,63,34,34,37,34,51,50,30,30,50,70,Perlgold,Pearl gold,Or nacrÃ©,Oro perlado,Oro perlato,Parelmoer goud
+1037,classic,#F09200,#ff9900,240,146,0,37,100,47,37,100,94,0,45,100,0,Sonnengelb,Sun yellow,Jaune soleil,Amarillo sol,Giallo sole,Zonnegeel
+2000,classic,#DA6E00,#cc6600,218,110,0,30,100,43,30,100,85,0,65,100,0,Gelborange,Yellow orange,OrangÃ© jaune,Amarillo naranja,Arancio giallastro,Geeloranje
+2001,classic,#BA481B,#cc3333,186,72,27,17,75,42,17,85,73,10,85,100,10,Rotorange,Red orange,OrangÃ© rouge,Rojo anaranjado,Arancio rossastro,Roodoranje
+2002,classic,#BF3922,#cc3333,191,57,34,9,70,44,9,82,75,0,90,100,10,Blutorange,Vermilion,OrangÃ© sang,Naranja sanguineo,Arancio sanguigno,Vermiljoen
+2003,classic,#F67828,#ff6633,246,120,40,23,92,56,23,84,96,0,70,90,0,Pastellorange,Pastel orange,OrangÃ© pastel,Naranja pÃ¡lido,Arancio pastello,Pasteloranje
+2004,classic,#E25303,#cc6600,226,83,3,22,97,45,22,99,89,0,75,100,0,Reinorange,Pure orange,OrangÃ© pur,Naranja puro,Arancio puro,Zuiver oranje
+2005,classic,#FF4D06,#ff6600,255,77,6,17,100,51,17,98,100,0,70,100,0,Leuchtorange,Luminous orange,OrangÃ© brillant,Naranja brillante,Arancio brillante,Briljantoranje
+2007,classic,#FFB200,#ff9900,255,178,0,42,100,50,42,100,100,0,45,100,0,Leuchthell orange,Luminous bright orange,OrangÃ© clair brillant,Naranja claro brillante,Arancio chiaro brillante,Briljant lichtoranje
+2008,classic,#ED6B21,#ff6633,237,107,33,22,85,53,22,86,93,0,65,100,0,Hellrotorange,Bright red orange,OrangÃ© rouge clair,Rojo claro anaranjado,Rosso arancio chiaro,Licht roodoranje
+2009,classic,#DE5307,#cc6600,222,83,7,21,94,45,21,97,87,0,80,100,0,Verkehrsorange,Traffic orange,OrangÃ© signalisation,Naranja trÃ¡fico,Arancio traffico,Verkeersoranje
+2010,classic,#D05D28,#cc6633,208,93,40,19,68,49,19,81,82,0,80,100,10,Signalorange,Signal orange,OrangÃ© de sÃ©curitÃ©,Naranja seÃ±ales,Arancio segnale,Signaaloranje
+2011,classic,#E26E0E,#cc6600,226,110,14,27,88,47,27,94,89,0,65,100,0,Tieforange,Deep orange,OrangÃ© foncÃ©,Naranja intenso,Arancio profondo,Dieporanje
+2012,classic,#D5654D,#cc6666,213,101,77,11,62,57,11,64,84,10,80,70,0,Lachsorange,Salmon orange,OrangÃ© saumon,Naranja salmÃ³n,Arancio salmone,Zalmoranje
+2013,classic,#923E25,#993333,146,62,37,14,60,36,14,75,57,20,90,100,30,Perlorange,Pearl orange,OrangÃ© nacrÃ©,Naranja perlado,Arancio perlato,Parelmoer oranje
+3000,classic,#A72920,#993333,167,41,32,4,68,39,4,81,65,10,100,100,20,Feuerrot,Flame red,Rouge feu,Rojo vivo,Rosso fuoco,Vuurrood
+3001,classic,#9B2423,#993333,155,36,35,0,63,37,0,77,61,20,100,100,10,Signalrot,Signal red,Rouge de sÃ©curitÃ©,Rojo seÃ±ales,Rosso segnale,Signaalrood
+3002,classic,#9B2321,#993333,155,35,33,1,65,37,1,79,61,10,100,100,25,Karminrot,Carmine red,Rouge carmin,Rojo carmin,Rosso carminio,Karmijnrood
+3003,classic,#861A22,#993333,134,26,34,356,68,31,356,81,53,30,100,80,20,Rubinrot,Ruby red,Rouge rubis,Rojo rubÃ­,Rosso rubino,Robijnrood
+3004,classic,#6B1C23,#663333,107,28,35,355,59,26,355,74,42,30,100,70,40,Purpurrot,Purple red,Rouge pourpre,Rojo pÃºrpura,Rosso porpora,Purperrood
+3005,classic,#59191F,#660033,89,25,31,354,56,22,354,72,35,40,100,60,40,Weinrot,Wine red,Rouge vin,Rojo vino,Rosso vino,Wijnrood
+3007,classic,#3E2022,#333333,62,32,34,356,32,18,356,48,24,50,100,40,50,Schwarzrot,Black red,Rouge noir,Rojo negruzco,Rosso nerastro,Zwartrood
+3009,classic,#6D342D,#663333,109,52,45,7,42,30,7,59,43,40,100,100,30,Oxidrot,Oxide red,Rouge oxyde,Rojo Ã³xido,Rosso ossido,Oxyderood
+3011,classic,#792423,#663333,121,36,35,1,55,31,1,71,47,20,100,80,40,Braunrot,Brown red,Rouge brun,Rojo pardo,Rosso marrone,Bruinrood
+3012,classic,#C6846D,#cc9966,198,132,109,16,44,60,16,45,78,0,50,50,20,Beigerot,Beige red,Rouge beige,Rojo beige,Rosso beige,Beigerood
+3013,classic,#972E25,#993333,151,46,37,5,61,37,5,75,59,0,100,90,30,Tomatenrot,Tomato red,Rouge tomate,Rojo tomate,Rosso pomodoro,Tomaatrood
+3014,classic,#CB7375,#cc6666,203,115,117,359,46,62,359,43,80,0,65,40,10,Altrosa,Antique pink,Vieux rose,Rojo viejo,Rosa antico,Oudroze
+3015,classic,#D8A0A6,#cc9999,216,160,166,354,42,74,354,26,85,5,40,20,0,Hellrosa,Light pink,Rose clair,Rosa claro,Rosa chiaro,Lichtroze
+3016,classic,#A63D2F,#993333,166,61,47,7,56,42,7,72,65,0,90,90,30,Korallenrot,Coral red,Rouge corail,Rojo coral,Rosso corallo,Koraalrood
+3017,classic,#CB555D,#cc6666,203,85,93,356,53,56,356,58,80,0,80,50,10,RosÃ©,Rose,RosÃ©,Rosa,Rosato,Bleekrood
+3018,classic,#C73F4A,#cc3333,199,63,74,355,55,51,355,68,78,5,100,60,0,Erdbeerrot,Strawberry red,Rouge fraise,Rojo fresa,Rosso fragola,Aardbeirood
+3020,classic,#BB1E10,#cc3300,187,30,16,5,84,40,5,91,73,0,100,100,10,Verkehrsrot,Traffic red,Rouge signalisation,Rojo trÃ¡fico,Rosso traffico,Verkeersrood
+3022,classic,#CF6955,#cc6666,207,105,85,10,56,57,10,59,81,0,70,60,5,Lachsrot,Salmon pink,Rouge saumon,Rojo salmÃ³n,Rosso salmone,Zalmrood
+3024,classic,#FF2D21,#ff3333,255,45,33,3,100,56,3,87,100,0,90,100,0,Leuchtrot,Luminous red,Rouge brillant,Rojo brillante,Rosso brillante,Briljantrood
+3026,classic,#FF2A1B,#ff3333,255,42,27,4,100,55,4,89,100,0,80,100,0,Leuchthellrot,Luminous bright red,Rouge clair brillant,Rojo claro brillante,Rosso chiaro brillante,Briljant lichtrood
+3027,classic,#AB273C,#993333,171,39,60,350,63,41,350,77,67,0,100,50,20,Himbeerrot,Raspberry red,Rouge framboise,Rojo frambuesa,Rosso lampone,Framboosrood
+3028,classic,#CC2C24,#cc3333,204,44,36,3,70,47,3,82,80,0,100,90,0,Reinrot,Pure red,Rouge pu,Rojo puro ,Rosso puro,Zuiver rood 
+3031,classic,#A63437,#993333,166,52,55,358,52,43,358,69,65,20,100,70,10,Orientrot,Orient red,Rouge oriental,Rojo oriente,Rosso oriente,OriÃ«ntrood
+3032,classic,#701D23,#663333,112,29,35,356,59,28,356,74,44,10,100,60,40,Perlrubinrot,Pearl ruby red,Rouge rubis nacrÃ©,Rojo rubÃ­ perlado,Rosso rubino perlato,Parelmoer donkerrood
+3033,classic,#A53A2D,#993333,165,58,45,7,57,41,7,73,65,10,90,90,20,Perlrosa,Pearl pink,Rose nacrÃ©,Rosa perlado,Rosa perlato,Parelmoer lichtrood
+4001,classic,#816183,#996699,129,97,131,296,15,45,296,26,51,30,60,10,20,Rotlila,Red lilac,Lilas rouge,Rojo lila,Lilla rossastro,Roodlila
+4002,classic,#8D3C4B,#993333,141,60,75,349,40,39,349,57,55,25,90,50,30,Rotviolett,Red violet,Violet rouge,Rojo violeta,Viola rossastro,Roodpaars
+4003,classic,#C4618C,#cc6699,196,97,140,334,46,57,334,51,77,10,80,5,5,Erikaviolett,Heather violet,Violet bruyÃ¨re,Violeta Ã©rica,Viola erica,Heidepaars
+4004,classic,#651E38,#663333,101,30,56,338,54,26,338,70,40,30,100,30,60,Bordeauxviolett,Claret violet,Violet bordeaux,Burdeos,Viola bordeaux,Bordeuaxpaars
+4005,classic,#76689A,#666699,118,104,154,257,20,51,257,32,60,50,60,0,0,Blaulila,Blue lilac,Lilas bleu,Lila azulado,Lilla bluastro,Blauwlila
+4006,classic,#903373,#993366,144,51,115,319,48,38,319,65,56,40,100,0,15,Verkehrspurpur,Traffic purple,Pourpre signalisation,PÃºrpurÃ¡ trÃ¡fico,Porpora traffico,Verkeerspurper
+4007,classic,#47243C,#333333,71,36,60,319,33,21,319,49,28,70,100,10,70,Purpurviolett,Purple violet,Violet pourpre,Violeta pÃºrpura,Porpora violetto,Purperviolet
+4008,classic,#844C82,#993399,132,76,130,302,27,41,302,42,52,50,90,0,5,Signalviolett,Signal violet,Violet de sÃ©curitÃ©,Violeta seÃ±ales,Violetto segnale,Signaalviolet
+4009,classic,#9D8692,#999999,157,134,146,329,11,57,329,15,62,35,50,30,10,Pastellviolett,Pastel violet,Violet pastel,Violeta pastel,Violetto pastello,Pastelviolet
+4010,classic,#BC4077,#cc3366,188,64,119,333,49,49,333,66,74,15,100,15,10,Telemagenta,Telemagenta,Telemagenta,Magenta tele,Tele Magenta,Telemagenta
+4011,classic,#6E6387,#666699,110,99,135,258,15,46,258,27,53,50,60,0,20,Perlviolett,Pearl violet,Violet nacrÃ©,Violeta perlado,Violetto perlato,Parelmoer donkerviolet
+4012,classic,#6B6B7F,#666666,107,107,127,240,9,46,240,16,50,40,35,0,40,Perlbrombeer,Pearl blackberry,MÃ»re nacrÃ©,Morado perlado,Mora perlato,Parelmoer lichtviolet
+5000,classic,#314F6F,#336666,49,79,111,211,39,31,211,56,44,100,80,40,5,Violettblau,Violet blue,Bleu violet,Azul violeta,Blu violaceo,Paarsblauw
+5001,classic,#0F4C64,#003366,15,76,100,197,74,23,197,85,39,100,60,30,40,GrÃ¼nblau,Green blue,Bleu vert,Azul verdoso,Blu verdastro,Groenblauw
+5002,classic,#00387B,#003366,0,56,123,213,100,24,213,100,48,100,90,0,10,Ultramarinblau,Ultramarine blue,Bleu outremer,Azul ultramar,Blu oltremare,Ultramarijn blauw
+5003,classic,#1F3855,#333366,31,56,85,212,47,23,212,64,33,70,30,10,80,Saphirblau,Sapphire blue,Bleu saphir,Azul zafiro,Blu zaffiro,Saffierblauw
+5004,classic,#191E28,#003333,25,30,40,220,23,13,220,38,16,70,30,10,80,Schwarzblau,Black blue,Bleu noir,Azul negruzco,Blu nerastro,Zwartblauw
+5005,classic,#005387,#006699,0,83,135,203,100,26,203,100,53,95,60,0,20,Signalblau,Signal blue,Bleu de sÃ©curitÃ©,Azul seÃ±ales,Blu segnale,Signaalblauw
+5007,classic,#376B8C,#336699,55,107,140,203,44,38,203,61,55,80,50,20,20,Brillantblau,Brilliant blue,Bleu brillant,Azul brillante,Blu brillante,Briljantblauw
+5008,classic,#2B3A44,#333333,43,58,68,204,23,22,204,37,27,100,90,60,30,Graublau,Grey blue,Bleu gris,Azul grisÃ¡ceo,Blu grigiastro,Grijsblauw
+5009,classic,#225F78,#336666,34,95,120,197,56,30,197,72,47,90,40,0,30,Azurblau,Azure blue,Bleu azur,Azul azur,Blu azzurro,Azuurblauw
+5010,classic,#004F7C,#006666,0,79,124,202,100,24,202,100,49,100,70,5,15,Enzianblau,Gentian blue,Bleu gentiane,Azul genciana,Blu genziana,Gentiaanblauw
+5011,classic,#1A2B3C,#333333,26,43,60,210,40,17,210,57,24,100,100,60,30,Stahlblau,Steel blue,Bleu acier,Azul acero,Blu acciaio,Staalblauw
+5012,classic,#0089B6,#0099cc,0,137,182,195,100,36,195,100,71,75,30,0,10,Lichtblau,Light blue,Bleu clair,Azul luminoso,Blu luce,Lichtblauw
+5013,classic,#193153,#003366,25,49,83,215,54,21,215,70,33,100,80,10,50,Kobaltblau,Cobalt blue,Bleu cobalt,Azul cobalto,Blu cobalto,Kobaltblauw
+5014,classic,#637D96,#666699,99,125,150,209,20,49,209,34,59,50,30,10,30,Taubenblau,Pigeon blue,Bleu pigeon,Azul colombino,Blu colomba,Duifblauw
+5015,classic,#007CB0,#006699,0,124,176,198,100,35,198,100,69,90,40,0,0,Himmelblau,Sky blue,Bleu ciel,Azul celeste,Blu cielo,Hemelsblauw
+5017,classic,#005B8C,#006699,0,91,140,201,100,27,201,100,55,100,60,0,10,Verkehrsblau,Traffic blue,Bleu signalisation,Azul trÃ¡fico,Blu traffico,Verkeersblauw
+5018,classic,#058B8C,#009999,5,139,140,180,93,28,180,96,55,80,10,35,20,TÃ¼rkisblau,Turquoise blue,Bleu turquoise,Azul turquesa,Blu turchese,Turkooisblauw
+5019,classic,#005E83,#006699,0,94,131,197,100,26,197,100,51,100,50,15,25,Capriblau,Capri blue,Bleu capri,Azul capri,Blu Capri,Capriblauw
+5020,classic,#00414B,#003333,0,65,75,188,100,15,188,100,29,100,10,20,80,Ozeanblau,Ocean blue,Bleu ocÃ©an,Azul oceano,Blu oceano,Oceaanblauw
+5021,classic,#007577,#006666,0,117,119,181,100,23,181,100,47,100,0,40,35,Wasserblau,Water blue,Bleu dâ€™eau,Azul agua,Blu acqua,Waterblauw
+5022,classic,#222D5A,#333366,34,45,90,228,45,24,228,62,35,100,90,0,50,Nachtblau,Night blue,Bleu nocturne,Azul noche,Blu notte,Nachtblauw
+5023,classic,#42698C,#336699,66,105,140,208,36,40,208,53,55,70,40,10,30,Fernblau,Distant blue,Bleu distant,Azul lejanÃ­a,Blu distante,Verblauw
+5024,classic,#6093AC,#669999,96,147,172,200,31,53,200,44,67,60,20,5,20,Pastellblau,Pastel blue,Bleu pastel,Azul pastel,Blu pastello,Pastelblauw
+5025,classic,#21697C,#336666,33,105,124,193,58,31,193,73,49,80,25,5,60,Perlenzian,Pearl gentian blue,Gentiane nacrÃ©,Gencian perlado,Blu genziana perlato,Parelmoer blauw
+5026,classic,#0F3052,#003366,15,48,82,210,69,19,210,82,32,100,60,0,45,Perlnachtblau,Pearl night blue,Bleu nuit nacrÃ©,Azul noche perlado,Blu notte perlato,Parelmoer nachtblauw
+6000,classic,#3C7460,#336666,60,116,96,159,32,35,159,48,45,80,25,60,15,PatinagrÃ¼n,Patina green,Vert patine,Verde patina,Verde patina,Patinagroen
+6001,classic,#366735,#336633,54,103,53,119,32,31,119,49,40,80,30,100,10,SmaragdgrÃ¼n,Emerald green,Vert Ã©meraude,Verde esmeralda,Verde smeraldo,Smaragdgroen
+6002,classic,#325928,#336633,50,89,40,108,38,25,108,55,35,85,30,100,30,LaubgrÃ¼n,Leaf green,Vert feuillage,Verde hoja,Verde foglia,Loofgroen
+6003,classic,#50533C,#666633,80,83,60,68,16,28,68,28,33,45,15,60,70,OlivgrÃ¼n,Olive green,Vert olive,Verde oliva,Verde oliva,Olijfgroen
+6004,classic,#024442,#003333,2,68,66,178,94,14,178,97,27,90,10,45,70,BlaugrÃ¼n,Blue green,Vert bleu,Verde azulado,Verde bluastro,Blauwgroen
+6005,classic,#114232,#003333,17,66,50,160,59,16,160,74,26,80,5,60,70,MoosgrÃ¼n,Moss green,Vert mousse,Verde musgo,Verde muschio,Mosgroen
+6006,classic,#3C392E,#333333,60,57,46,47,13,21,47,23,24,20,0,30,90,Grauoliv,Grey olive,Olive gris,Oliva grisÃ¡ceo,Oliva grigiastro,Grijs olijfgroen
+6007,classic,#2C3222,#333333,44,50,34,83,19,16,83,32,20,80,45,70,80,FlaschengrÃ¼n,Bottle green,Vert bouteille,Verde botella,Verde bottiglia,Flessengroen
+6008,classic,#37342A,#333333,55,52,42,46,13,19,46,24,22,60,50,60,80,BraungrÃ¼n,Brown green,Vert brun,Verde parduzco,Verde brunastro,Bruingroen
+6009,classic,#27352A,#333333,39,53,42,133,15,18,133,26,21,100,30,80,80,TannengrÃ¼n,Fir green,Vert sapin,Verde abeto,Verde abete,Dennengroen
+6010,classic,#4D6F39,#666633,77,111,57,98,32,33,98,49,44,80,20,100,25,GrasgrÃ¼n,Grass green,Vert herbe,Verde hierba,Verde erba,Grasgroen
+6011,classic,#6C7C59,#666666,108,124,89,87,16,42,87,28,49,50,10,60,45,ResedagrÃ¼n,Reseda green,Vert rÃ©sÃ©da,Verde reseda,Verde reseda,Resedagroen
+6012,classic,#303D3A,#333333,48,61,58,166,12,21,166,21,24,80,45,50,70,SchwarzgrÃ¼n,Black green,Vert noir,Verde negruzco,Verde nerastro,Zwartgroen
+6013,classic,#7D765A,#666666,125,118,90,48,16,42,48,28,49,45,25,60,50,SchilfgrÃ¼n,Reed green,Vert jonc,Verde caÃ±a,Verde canna,Rietgroen
+6014,classic,#474135,#333333,71,65,53,40,15,24,40,25,28,20,20,50,90,Gelboliv,Yellow olive,Olive jaune,Amarillo oliva,Oliva giallastro,Geel olijfgroen
+6015,classic,#3D3D36,#333333,61,61,54,60,6,23,60,11,24,25,5,30,90,Schwarzoliv,Black olive,Olive noir,Oliva negruzco,Oliva nerastro,Zwart olijfgroen
+6016,classic,#00694C,#006633,0,105,76,163,100,21,163,100,41,100,20,80,25,TÃ¼rkisgrÃ¼n,Turquoise green,Vert turquoise,Verde turquesa,Verde turchese,Turkooisgroen
+6017,classic,#587F40,#666633,88,127,64,97,33,37,97,50,50,70,5,90,20,MaigrÃ¼n,May green,Vert mai,Verde mayo,Verde maggio,Meigroen
+6018,classic,#61993B,#669933,97,153,59,96,44,42,96,61,60,70,0,90,0,GelbgrÃ¼n,Yellow green,Vert jaune,Verde amarillento,Verde giallastro,Geelgroen
+6019,classic,#B9CEAC,#cccc99,185,206,172,97,26,74,97,17,81,35,0,40,0,WeiÃŸgrÃ¼n,Pastel green,Vert blanc,Verde blanquecino,Verde biancastro,Witgroen
+6020,classic,#37422F,#333333,55,66,47,95,17,22,95,29,26,80,50,90,50,ChromoxidgrÃ¼n,Chrome green,Vert oxyde chromique,Verde cromo,Verde cromo,Chroomoxyde groen
+6021,classic,#8A9977,#999966,138,153,119,86,14,53,86,22,60,45,5,50,25,BlassgrÃ¼n,Pale green,Vert pÃ¢le,Verde pÃ¡lido,Verde pallido,Bleekgroen
+6022,classic,#3A3327,#333333,58,51,39,38,20,19,38,33,23,70,70,100,70,Braunoliv,Olive drab,Olive brun,Oliva parduzco,Oliva brunastro,Bruin olijfgroen
+6024,classic,#008351,#009966,0,131,81,157,100,26,157,100,51,90,10,80,10,VerkehrsgrÃ¼n,Traffic green,Vert signalisation,Verde trÃ¡fico,Verde traffico,Verkeersgroen
+6025,classic,#5E6E3B,#666633,94,110,59,79,30,33,79,46,43,70,25,100,20,FarngrÃ¼n,Fern green,Vert fougÃ¨re,Verde helecho,Verde felce,Varengroen
+6026,classic,#005F4E,#006666,0,95,78,169,100,19,169,100,37,100,10,60,50,OpalgrÃ¼n,Opal green,Vert opale,Verde opalo,Verde opale,Opaalgroen
+6027,classic,#7EBAB5,#66cccc,126,186,181,175,30,61,175,32,73,50,0,25,5,LichtgrÃ¼n,Light green,Vert clair,Verde luminoso,Verde chiaro,Lichtgroen
+6028,classic,#315442,#336633,49,84,66,149,26,26,149,42,33,80,35,70,50,KieferngrÃ¼n,Pine green,Vert pin,Verde pino,Verde pino,Pijnboomgroen
+6029,classic,#006F3D,#006633,0,111,61,153,100,22,153,100,44,100,5,90,30,MinzgrÃ¼n,Mint green,Vert menthe,Verde menta,Verde menta,Mintgroen
+6032,classic,#237F52,#336666,35,127,82,151,57,32,151,72,50,90,10,80,10,SignalgrÃ¼n,Signal green,Vert de sÃ©curitÃ©,Verde seÃ±ales,Verde segnale,Signaalgroen
+6033,classic,#46877F,#339966,70,135,127,173,32,40,173,48,53,70,15,50,20,MinttÃ¼rkis,Mint turquoise,Turquoise menthe,Turquesa menta,Turchese menta,Mintturquoise
+6034,classic,#7AACAC,#669999,122,172,172,180,23,58,180,29,67,45,0,20,20,PastelltÃ¼rkis,Pastel turquoise,Turquoise pastel,Turquesa pastel,Turchese pastello,Pastelturquoise
+6035,classic,#194D25,#006633,25,77,37,134,51,20,134,68,30,90,15,100,60,PerlgrÃ¼n,Pearl green,Vert nacrÃ©,Verde perlado,Verde perlato,Parelmoer donkergroen
+6036,classic,#04574B,#006633,4,87,75,171,91,18,171,95,34,85,10,60,40,PerlopalgrÃ¼n,Pearl opal green,Vert opal nacrÃ©,Verde Ã³palo perlado,Verde opalo perlato,Parelmoer lichtgroen
+6037,classic,#008B29,#009933,0,139,41,138,100,27,138,100,55,85,0,100,0,ReingrÃ¼n,Pure green,Vert pur,Verde puro ,Verde puro,Zuiver groen 
+6038,classic,#00B51A,#00cc33,0,181,26,129,100,35,129,100,71,70,0,90,0,LeuchtgrÃ¼n,Luminous green,Vert brillant,Verde brillante ,Verde brillante,Briljantgroen 
+7000,classic,#7A888E,#669999,122,136,142,198,8,52,198,14,56,35,5,10,40,Fehgrau,Squirrel grey,Gris petit-gris,Gris ardilla,Grigio vaio,Pelsgrijs
+7001,classic,#8C969D,#999999,140,150,157,205,8,58,205,11,62,25,10,5,45,Silbergrau,Silver grey,Gris argent,Gris plata,Grigio argento,Zilvergrijs
+7002,classic,#817863,#996666,129,120,99,42,13,45,42,23,51,0,5,40,60,Olivgrau,Olive grey,Gris olive,Gris oliva,Grigio olivastro,Olijfgrijs
+7003,classic,#7A7669,#666666,122,118,105,46,7,45,46,14,48,45,35,45,45,Moosgrau,Moss grey,Gris mousse,Gris musgo,Grigio muschio,Mosgrijs
+7004,classic,#9B9B9B,#999999,155,155,155,0,0,61,0,0,61,15,10,5,45,Signalgrau,Signal grey,Gris de sÃ©curitÃ©,Gris seÃ±ales,Grigio segnale,Signaalgrijs
+7005,classic,#6C6E6B,#666666,108,110,107,100,1,43,100,3,43,35,20,30,40,Mausgrau,Mouse grey,Gris souris,Gris ratÃ³n,Grigio topo,Muisgrijs
+7006,classic,#766A5E,#666666,118,106,94,30,11,42,30,20,46,40,40,50,40,Beigegrau,Beige grey,Gris beige,Gris beige,Grigio beige,Beigegrijs
+7008,classic,#745E3D,#666633,116,94,61,36,31,35,36,47,45,40,50,90,40,Khakigrau,Khaki grey,Gris kaki,Gris caqui,Grigio kaki,Kakigrijs
+7009,classic,#5D6058,#666666,93,96,88,83,4,36,83,8,38,50,35,50,50,GrÃ¼ngrau,Green grey,Gris vert,Gris verdoso,Grigio verdastro,Groengrijs
+7010,classic,#585C56,#666666,88,92,86,100,3,35,100,7,36,50,30,45,60,Zeltgrau,Tarpaulin grey,Gris tente,Gris lona,Grigio tenda,Zeildoekgrijs
+7011,classic,#52595D,#666666,82,89,93,202,6,34,202,12,36,40,15,15,70,Eisengrau,Iron grey,Gris fer,Gris hierro,Grigio ferro,IJzergrijs
+7012,classic,#575D5E,#666666,87,93,94,189,4,35,189,7,37,30,10,10,70,Basaltgrau,Basalt grey,Gris basalte,Gris basalto,Grigio basalto,Bazaltgrijs
+7013,classic,#575044,#666633,87,80,68,38,12,30,38,22,34,30,35,50,70,Braungrau,Brown grey,Gris brun,Gris parduzco,Grigio brunastro,Bruingrijs
+7015,classic,#4F5358,#666666,79,83,88,213,5,33,213,10,35,45,30,15,70,Schiefergrau,Slate grey,Gris ardoise,Gris pizarra,Grigio ardesia,Leigrijs
+7016,classic,#383E42,#333333,56,62,66,204,8,24,204,15,26,60,30,20,80,Anthrazitgrau,Anthracite grey,Gris anthracite,Gris antracita,Grigio antracite,Antracietgrijs
+7021,classic,#2F3234,#333333,47,50,52,204,5,19,204,10,20,60,35,30,90,Schwarzgrau,Black grey,Gris noir,Gris negruzco,Grigio nerastro,Zwartgrijs
+7022,classic,#4C4A44,#333333,76,74,68,45,6,28,45,11,30,40,30,40,80,Umbragrau,Umbra grey,Gris terre dâ€™ombre,Gris sombra,Grigio ombra,Ombergrijs
+7023,classic,#808076,#999966,128,128,118,60,4,48,60,8,50,5,0,20,50,Betongrau,Concrete grey,Gris bÃ©ton,Gris hormigÃ³n,Grigio calcestruzzo,Betongrijs
+7024,classic,#45494E,#333366,69,73,78,213,6,29,213,12,31,30,20,0,80,Graphitgrau,Graphite grey,Gris graphite,Gris grafita,Grigio grafite,Grafietgrijs
+7026,classic,#374345,#333333,55,67,69,189,11,24,189,20,27,50,15,15,80,Granitgrau,Granite grey,Gris granit,Gris granito,Grigio granito,Granietgrijs
+7030,classic,#928E85,#999999,146,142,133,42,6,55,42,9,57,5,5,15,50,Steingrau,Stone grey,Gris pierre,Gris piedra,Grigio pietra,Steengrijs
+7031,classic,#5B686D,#666666,91,104,109,197,9,39,197,17,43,50,20,15,60,Blaugrau,Blue grey,Gris bleu,Gris azulado,Grigio bluastro,Blauwgrijs
+7032,classic,#B5B0A1,#cc9999,181,176,161,45,12,67,45,11,71,15,10,25,20,Kieselgrau,Pebble grey,Gris silex,Gris guijarro,Grigio ghiaia,Kiezelgrijs
+7033,classic,#7F8274,#669966,127,130,116,73,6,48,73,11,51,25,10,30,40,Zementgrau,Cement grey,Gris ciment,Gris cemento,Grigio cemento,Cementgrijs
+7034,classic,#92886F,#999966,146,136,111,43,14,50,43,24,57,15,20,40,40,Gelbgrau,Yellow grey,Gris jaune,Gris amarillento,Grigio giallastro,Geelgrijs
+7035,classic,#C5C7C4,#cccccc,197,199,196,100,3,77,100,2,78,20,10,15,5,Lichtgrau,Light grey,Gris clair,Gris luminoso,Grigio luce,Lichtgrijs
+7036,classic,#979392,#999999,151,147,146,12,2,58,12,3,59,35,30,30,10,Platingrau,Platinum grey,Gris platine,Gris platino,Grigio platino,Platinagrijs
+7037,classic,#7A7B7A,#666666,122,123,122,120,0,48,120,1,48,30,20,20,40,Staubgrau,Dusty grey,Gris poussiÃ¨re,Gris polvo,Grigio polvere,Stofgrijs
+7038,classic,#B0B0A9,#999999,176,176,169,60,4,68,60,4,69,5,0,10,30,Achatgrau,Agate grey,Gris agate,Gris Ã¡gata,Grigio agata,Agaatgrijs
+7039,classic,#6B665E,#666666,107,102,94,37,6,39,37,12,42,25,20,30,60,Quarzgrau,Quartz grey,Gris quartz,Gris cuarzo,Grigio quarzo,Kwartsgrijs
+7040,classic,#989EA1,#999999,152,158,161,200,5,61,200,6,63,20,10,5,35,Fenstergrau,Window grey,Gris fenÃªtre,Gris ventana,Grigio finestra,Venstergrijs
+7042,classic,#8E9291,#999999,142,146,145,165,2,56,165,3,57,30,20,30,30,Verkehrsgrau A,Traffic grey A,Gris signalisation A,Gris trÃ¡fico A,Grigio traffico A,Verkeersgrijs A
+7043,classic,#4F5250,#666666,79,82,80,140,2,32,140,4,32,20,5,0,80,Verkehrsgrau B,Traffic grey B,Gris signalisation B,Gris trÃ¡fico B,Grigio traffico B,Verkeersgrijs B
+7044,classic,#B7B3A8,#cccc99,183,179,168,44,9,69,44,8,72,20,15,25,15,Seidengrau,Silk grey,Gris soie,Gris seda,Grigio seta,Zijdegrijs
+7045,classic,#8D9295,#999999,141,146,149,203,4,57,203,5,58,5,0,0,45,Telegrau 1,Telegrey 1,Telegris 1,Gris tele 1,Grigio tele 1,Telegrijs 1
+7046,classic,#7F868A,#669999,127,134,138,202,4,52,202,8,54,30,20,20,40,Telegrau 2,Telegrey 2,Telegris 2,Gris tele 2,Grigio tele 2,Telegrijs 2
+7047,classic,#C8C8C7,#cccccc,200,200,199,60,1,78,60,0,78,5,5,5,20,Telegrau 4,Telegrey 4,Telegris 4,Gris tele 4,Grigio tele 4,Telegrijs 4
+7048,classic,#817B73,#996666,129,123,115,34,6,48,34,11,51,15,15,25,60,Perlmausgrau,Pearl mouse grey,Gris souris nacrÃ©,Gris musgo perlado,Grigio topo perlato,Parelmoer muisgrijs
+8000,classic,#89693E,#996633,137,105,62,34,38,39,34,55,54,50,60,90,0,GrÃ¼nbraun,Green brown,Brun vert,Pardo verdoso,Marrone verdastro,Groenbruin
+8001,classic,#9D622B,#996633,157,98,43,29,57,39,29,73,62,30,60,90,10,Ockerbraun,Ochre brown,Brun terre de Sienne,Pardo ocre,Marrone ocra,Okerbruin
+8002,classic,#794D3E,#666633,121,77,62,15,32,36,15,49,47,30,70,70,50,Signalbraun,Signal brown,Brun de sÃ©curitÃ©,MarrÃ³n seÃ±ales,Marrone segnale,Signaalbruin
+8003,classic,#7E4B26,#663333,126,75,38,25,54,32,25,70,49,0,60,80,60,Lehmbraun,Clay brown,Brun argile,Pardo arcilla,Marrone fango,Leembruin
+8004,classic,#8D4931,#993333,141,73,49,16,48,37,16,65,55,45,80,100,10,Kupferbraun,Copper brown,Brun cuivrÃ©,Pardo cobre,Marrone rame,Koperbruin
+8007,classic,#70452A,#663333,112,69,42,23,45,30,23,63,44,40,70,100,50,Rehbraun,Fawn brown,Brun fauve,Pardo corzo,Marrone capriolo,Reebruin
+8008,classic,#724A25,#663333,114,74,37,29,51,30,29,68,45,15,50,90,60,Olivbraun,Olive brown,Brun olive,Pardo oliva,Marrone oliva,Olijfbruin
+8011,classic,#5A3826,#663333,90,56,38,21,41,25,21,58,35,30,70,90,70,Nussbraun,Nut brown,Brun noisette,Pardo nuez,Marrone noce,Notenbruin
+8012,classic,#66332B,#663333,102,51,43,8,41,28,8,58,40,40,90,100,50,Rotbraun,Red brown,Brun rouge,Pardo rojo,Marrone rossiccio,Roodbruin
+8014,classic,#4A3526,#333333,74,53,38,25,32,22,25,49,29,30,60,70,80,Sepiabraun,Sepia brown,Brun sÃ©pia,Sepia,Marrone seppia,Sepiabruin
+8015,classic,#5E2F26,#663333,94,47,38,10,42,26,10,60,37,50,100,100,50,Kastanienbraun,Chestnut brown,Marron,CastaÃ±o,Marrone castagna,Kastanjebruin
+8016,classic,#4C2B20,#333333,76,43,32,15,41,21,15,58,30,40,80,70,70,Mahagonibraun,Mahogany brown,Brun acajou,Caoba,Marrone mogano,Mahoniebruin
+8017,classic,#442F29,#333333,68,47,41,13,25,21,13,40,27,30,70,60,80,Schokoladenbraun,Chocolate brown,Brun chocolat,Chocolate,Marrone cioccolata,Chocoladebruin
+8019,classic,#3D3635,#333333,61,54,53,7,7,22,7,13,24,50,50,40,80,Graubraun,Grey brown,Brun gris,Pardo grisÃ¡ceo,Marrone grigiastro,Grijsbruin
+8022,classic,#1A1718,#330000,26,23,24,340,6,10,340,12,10,100,50,30,100,Schwarzbraun,Black brown,Brun noir,Pardo negruzco,Marrone nerastro,Zwartbruin
+8023,classic,#A45729,#996633,164,87,41,22,60,40,22,75,64,25,75,100,10,Orangebraun,Orange brown,Brun orangÃ©,Pardo anaranjado,Marrone arancio,Oranjebruin
+8024,classic,#795038,#666633,121,80,56,22,37,35,22,54,47,25,60,70,50,Beigebraun,Beige brown,Brun beige,Pardo beige,Marrone beige,Beigebruin
+8025,classic,#755847,#666633,117,88,71,22,24,37,22,39,46,40,60,60,45,Blassbraun,Pale brown,Brun pÃ¢le,Pardo pÃ¡lido,Marrone pallido,Bleekbruin
+8028,classic,#513A2A,#663333,81,58,42,25,32,24,25,48,32,60,70,90,60,Terrabraun,Terra brown,Brun terre,MarrÃ³n tierra,Marrone terra,Terrabruin
+8029,classic,#7F4031,#663333,127,64,49,12,44,35,12,61,50,30,80,80,45,Perlkupfer,Pearl copper,Cuivre nacrÃ©,Cobre perlado,Rame perlato,Parelmoer koper
+9001,classic,#E9E0D2,#ffcccc,233,224,210,37,34,87,37,10,91,5,5,15,0,CremeweiÃŸ,Cream,Blanc crÃ¨me,Blanco crema,Bianco crema,CrÃ¨mewit
+9002,classic,#D7D5CB,#cccccc,215,213,203,50,13,82,50,6,84,0,0,10,10,GrauweiÃŸ,Grey white,Blanc gris,Blanco grisÃ¡ceo,Bianco grigiastro,Grijswit
+9003,classic,#ECECE7,#ffffff,236,236,231,60,12,92,60,2,93,0,0,0,0,SignalweiÃŸ,Signal white,Blanc de sÃ©curitÃ©,Blanco seÃ±ales,Bianco segnale,Signaalwit
+9004,classic,#2B2B2C,#333333,43,43,44,240,1,17,240,2,17,35,50,40,90,Signalschwarz,Signal black,Noir de sÃ©curitÃ©,Negro seÃ±ales,Nero segnale,Signaalzwart
+9005,classic,#0E0E10,#000000,14,14,16,240,7,6,240,13,6,100,40,50,90,Tiefschwarz,Jet black,Noir foncÃ©,Negro intenso,Nero intenso,Gitzwart
+9006,classic,#A1A1A0,#999999,161,161,160,60,1,63,60,1,63,35,30,30,10,WeiÃŸaluminium,White aluminium,Aluminium blanc,Aluminio blanco,Alluminio brillante,Blank aluminiumkleurig
+9007,classic,#878581,#999999,135,133,129,40,2,52,40,4,53,35,30,30,15,Graualuminium,Grey aluminium,Aluminium gris,Aluminio gris,Alluminio grigiastro,Grijs aluminiumkleurig
+9010,classic,#F1ECE1,#ffffcc,241,236,225,41,36,91,41,7,95,0,0,5,0,ReinweiÃŸ,Pure white,Blanc pur,Blanco puro,Bianco puro,Zuiver wit
+9011,classic,#27292B,#333333,39,41,43,210,5,16,210,9,17,60,45,30,90,Graphitschwarz,Graphite black,Noir graphite,Negro grafito,Nero grafite,Grafietzwart
+9016,classic,#F1F0EA,#ffffff,241,240,234,51,20,93,51,3,95,0,0,5,0,VerkehrsweiÃŸ,Traffic white,Blanc signalisation,Blanco trÃ¡fico,Bianco traffico,Verkeerswit
+9017,classic,#2A292A,#333333,42,41,42,300,1,16,300,2,16,50,30,50,100,Verkehrsschwarz,Traffic black,Noir signalisation,Negro trÃ¡fico,Nero traffico,Verkeerszwart
+9018,classic,#C8CBC4,#cccccc,200,203,196,86,6,78,86,3,80,10,5,15,10,PapyrusweiÃŸ,Papyrus white,Blanc papyrus,Blanco papiro,Bianco papiro,Papyruswit
+9022,classic,#858583,#999999,133,133,131,60,1,52,60,2,52,35,30,30,20,Perlhellgrau,Pearl light grey,Gris clair nacrÃ©,Gris claro perlado,Grigio chiaro perlato,Parelmoer lichtgrijs
+9023,classic,#797B7A,#666666,121,123,122,150,1,48,150,2,48,15,10,10,50,Perldunkelgrau,Pearl dark grey,Gris fonÃ§Ã© nacrÃ©,Gris oscuro perlado,Grigio scuro perlato,Parelmoer donkergrijs

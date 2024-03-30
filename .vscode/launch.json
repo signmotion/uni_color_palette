@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Example Flutter",
+      "type": "dart",
+      "request": "launch",
+      "cwd": "example/all_palettes",
+      "program": "lib/main.dart"
+    }
+  ]
+}

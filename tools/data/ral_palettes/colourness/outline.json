@@ -1,0 +1,79 @@
+{
+  "dropRootKeys": true,
+  "special-values-mapping": {
+    "null": "null",
+    "empty": "",
+    "true": "true",
+    "false": "false"
+  },
+  "map": [
+    [
+      "name",
+      "name"
+    ],
+    [
+      "ral",
+      "ral"
+    ],
+    [
+      "rgb_r",
+      "rgb.r"
+    ],
+    [
+      "rgb_g",
+      "rgb.g"
+    ],
+    [
+      "rgb_b",
+      "rgb.b"
+    ],
+    [
+      "rgb_rgb",
+      "rgb.rgb"
+    ],
+    [
+      "hex",
+      "hex"
+    ],
+    [
+      "brightness",
+      "brightness"
+    ],
+    [
+      "cmyk_c",
+      "cmyk.c"
+    ],
+    [
+      "cmyk_m",
+      "cmyk.m"
+    ],
+    [
+      "cmyk_y",
+      "cmyk.y"
+    ],
+    [
+      "cmyk_k",
+      "cmyk.k"
+    ],
+    [
+      "cmyk_cmyk",
+      "cmyk.cmyk"
+    ],
+    [
+      "hsl_h",
+      "hsl.h"
+    ],
+    [
+      "hsl_s",
+      "hsl.s"
+    ],
+    [
+      "hsl_l",
+      "hsl.l"
+    ],
+    [
+      "hsl_hsl",
+      "hsl.hsl"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+name: uni_color_palette
+description: >-
+  The set of amazing color palettes with links to original sources.
+  The easy-to-use package. Feel free to use it in your awesome projects.
+repository: https://github.com/signmotion/uni_color_palette
+topics:
+  - palette
+  - color
+  - zeplin
+  - pantone
+  - ral
+publish_to: none
+
+# Format:
+#   version: major.minor.patch
+# You can calculate the number version code by this formula:
+#   code = m[A]jor * 100 * 100 + m[I]nor * 100 + [P]atch
+# Otherwise: +AAIIPP
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  uni_color_model:
+    path: ../uni_color_model
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.2
+
+screenshots:
+  - description: "UniColorPalette demo"
+    path: images/screenshots/zeplin_palette.webp
