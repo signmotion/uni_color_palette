@@ -9,7 +9,6 @@ topics:
   - zeplin
   - pantone
   - ral
-publish_to: none
 
 # Format:
 #   version: major.minor.patch
@@ -23,7 +22,8 @@ environment:
 
 dependencies:
   uni_color_model:
-    path: ../uni_color_model
+    ^0.1.0
+    #path: ../uni_color_model
 
 dev_dependencies:
   lints: ^3.0.0
