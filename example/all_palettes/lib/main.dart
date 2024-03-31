@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:uni_color_palette/uni_color_palette.dart';
 
 /// See also `example/main.dart` file with pure Dart SDK example.
-/// You can choose any palette from [PalettesMaps].
+/// You can choose any palette.
 void main() => runApp(App(
       palette: UniPalette(zeplinColors),
     ));
@@ -17,7 +17,7 @@ class App extends StatelessWidget {
         home: Scaffold(
           appBar: AppBar(
             title: const Center(
-              child: Text('UniColorPalette Palettes'),
+              child: Text('AllPalettes'),
             ),
           ),
           body: SingleChildScrollView(
@@ -31,7 +31,7 @@ class App extends StatelessWidget {
       );
 
   Widget get note => Text(
-        'The palette contains ${palette.count} colors',
+        'The palette contains ${palette.count} colors.',
         textScaler: const TextScaler.linear(1.5),
       );
 
