@@ -6,6 +6,10 @@ import 'package:uni_color_palette/uni_color_palette.dart';
 /// that visualize a palette.
 void main() {
   final palette = UniPalette(zeplinColors);
+
   print('I know ${palette.count} colors.');
   print(palette['forrest green']);
+
+  final all = palette.list.map((c) => c.name).toList()..sort();
+  print('All colors from the palette:\n${all.join(', ')}');
 }
