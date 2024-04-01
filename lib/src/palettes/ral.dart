@@ -2,9 +2,18 @@ import '../../uni_color_palette.dart';
 
 typedef C = RgbInt8Color;
 
-/// Source: https://ral-farben.de/alle-ral-farben
 /// Helper sheet: https://docs.google.com/spreadsheets/d/1f8wvrgqfGcXFAiAXx-p9CgLXo3__IoEn8-Us-uRyfok/edit#gid=783654737
-final ralColors = [
+final ralPalette = UniPalette(
+  _ralColors,
+  name: 'RAL',
+  license: 'RAL® and related trademarks are the property of'
+      ' RAL gGmbH (https://ral-farben.de) (non-profit LLC) or'
+      ' RAL Deutsches Institut für Gütesicherung und Kennzeichnung'
+      ' e. V. (https://ral.de)',
+  source: 'https://ral-farben.de/alle-ral-farben',
+);
+
+final _ralColors = [
   C.rgbNames(0x25, 0x26, 0x26, Names.rays(['en'], ['ink black'])),
   C.rgbNames(0x2e, 0x2f, 0x2f, Names.rays(['en'], ['slate black'])),
   C.rgbNames(0x3b, 0x3c, 0x3d, Names.rays(['en'], ['onyx black'])),

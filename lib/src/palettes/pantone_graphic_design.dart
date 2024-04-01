@@ -2,9 +2,16 @@ import '../../uni_color_palette.dart';
 
 typedef C = RgbInt8Color;
 
-/// Source: https://numerosamente.it/pantone-list
 /// Helper sheet: https://docs.google.com/spreadsheets/d/1f8wvrgqfGcXFAiAXx-p9CgLXo3__IoEn8-Us-uRyfok/edit#gid=1790290811
-final pantoneGraphicDesignColors = [
+final pantoneGraphicDesignPalette = UniPalette(
+  _pantoneGraphicDesignColors,
+  name: 'Pantone Graphic Design',
+  license: 'PANTONE® and related trademarks are the property of Pantone LLC'
+      ' (https://pantone.com), a division of X-Rite, a Danaher company.',
+  source: 'https://numerosamente.it/pantone-list',
+);
+
+final _pantoneGraphicDesignColors = [
   C.rgbName(0x2f, 0x24, 0x1d, '2479 cp'),
   C.rgbName(0x22, 0x1c, 0x35, '276 c'),
   C.rgbName(0x20, 0x18, 0x34, '276 xgc'),

@@ -2,9 +2,15 @@ import '../../uni_color_palette.dart';
 
 typedef C = RgbInt8Color;
 
-/// Thanks: https://github.com/zeplin/zeplin-palette/tree/master
+final zeplinPalette = UniPalette(
+  _zeplinColors,
+  name: 'Zeplin',
+  license: 'SIL Open Font License',
+  source: 'https://github.com/zeplin/zeplin-palette/tree/master',
+);
+
 /// Helper sheet: https://docs.google.com/spreadsheets/d/1f8wvrgqfGcXFAiAXx-p9CgLXo3__IoEn8-Us-uRyfok/edit#gid=0
-final zeplinColors = [
+final _zeplinColors = [
   C.rgbName(0x00, 0x00, 0x00, 'black'),
   C.rgbName(0x00, 0x01, 0x33, 'very dark blue'),
   C.rgbName(0x00, 0x02, 0x2e, 'dark navy blue'),

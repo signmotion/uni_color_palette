@@ -2,9 +2,15 @@ import '../../uni_color_palette.dart';
 
 typedef C = RgbInt8Color;
 
-/// Source: https://en.wikipedia.org/wiki/Commodore_64#Graphics
 /// Helper sheet: https://docs.google.com/spreadsheets/d/1f8wvrgqfGcXFAiAXx-p9CgLXo3__IoEn8-Us-uRyfok/edit#gid=0
-final commodore64Colors = [
+final commodore64Palette = UniPalette(
+  _commodore64Colors,
+  name: 'Commodore 64',
+  license: '',
+  source: 'https://en.wikipedia.org/wiki/Commodore_64#Graphics',
+);
+
+final _commodore64Colors = [
   C.rgbIndexName(0x00, 0x00, 0x00, 0, 'black'),
   C.rgbIndexName(0xff, 0xff, 0xff, 1, 'white'),
   C.rgbIndexName(0x9f, 0x4e, 0x44, 2, 'red'),

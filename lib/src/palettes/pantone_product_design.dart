@@ -2,9 +2,16 @@ import '../../uni_color_palette.dart';
 
 typedef C = RgbInt8Color;
 
-/// Source: https://numerosamente.it/pantone-list
 /// Helper sheet: https://docs.google.com/spreadsheets/d/1f8wvrgqfGcXFAiAXx-p9CgLXo3__IoEn8-Us-uRyfok/edit#gid=1545020977
-final pantoneProductDesignColors = [
+final pantoneProductDesignPalette = UniPalette(
+  _pantoneProductDesignColors,
+  name: 'Pantone Product Design',
+  license: 'PANTONE® and related trademarks are the property of Pantone LLC'
+      ' (https://pantone.com), a division of X-Rite, a Danaher company.',
+  source: 'https://numerosamente.it/pantone-list',
+);
+
+final _pantoneProductDesignColors = [
   C.rgbName(0x2e, 0x27, 0x2a, 'black bean'),
   C.rgbName(0x26, 0x26, 0x2a, 'black beauty'),
   C.rgbName(0x26, 0x29, 0x34, 'sky captain'),
