@@ -1,0 +1,514 @@
+{
+    "hks": [
+        {
+            "code": "HKS 1 K",
+            "rgb": "rgb(255,226,99)",
+            "hex": "#FFE263",
+            "name": ""
+        },
+        {
+            "code": "HKS 2 K",
+            "rgb": "rgb(255,227,0)",
+            "hex": "#FFE300",
+            "name": ""
+        },
+        {
+            "code": "HKS 3 K",
+            "rgb": "rgb(255,219,0)",
+            "hex": "#FFDB00",
+            "name": ""
+        },
+        {
+            "code": "HKS 4 K",
+            "rgb": "rgb(255,201,0)",
+            "hex": "#FFC900",
+            "name": ""
+        },
+        {
+            "code": "HKS 5 K",
+            "rgb": "rgb(255,184,0)",
+            "hex": "#FFB800",
+            "name": ""
+        },
+        {
+            "code": "HKS 6 K",
+            "rgb": "rgb(255,143,0)",
+            "hex": "#FF8F00",
+            "name": ""
+        },
+        {
+            "code": "HKS 7 K",
+            "rgb": "rgb(255,113,0)",
+            "hex": "#FF7100",
+            "name": ""
+        },
+        {
+            "code": "HKS 8 K",
+            "rgb": "rgb(255,100,0)",
+            "hex": "#FF6400",
+            "name": ""
+        },
+        {
+            "code": "HKS 10 K",
+            "rgb": "rgb(255,76,2)",
+            "hex": "#FF4C02",
+            "name": ""
+        },
+        {
+            "code": "HKS 11 K",
+            "rgb": "rgb(255,155,117)",
+            "hex": "#FF9B75",
+            "name": ""
+        },
+        {
+            "code": "HKS 12 K",
+            "rgb": "rgb(243,59,29)",
+            "hex": "#F33B1D",
+            "name": ""
+        },
+        {
+            "code": "HKS 13 K",
+            "rgb": "rgb(247,52,41)",
+            "hex": "#F73429",
+            "name": ""
+        },
+        {
+            "code": "HKS 14 K",
+            "rgb": "rgb(226,56,42)",
+            "hex": "#E2382A",
+            "name": ""
+        },
+        {
+            "code": "HKS 15 K",
+            "rgb": "rgb(204,31,47)",
+            "hex": "#CC1F2F",
+            "name": ""
+        },
+        {
+            "code": "HKS 16 K",
+            "rgb": "rgb(165,47,51)",
+            "hex": "#A52F33",
+            "name": ""
+        },
+        {
+            "code": "HKS 17 K",
+            "rgb": "rgb(167,31,60)",
+            "hex": "#A71F3C",
+            "name": ""
+        },
+        {
+            "code": "HKS 18 K",
+            "rgb": "rgb(120,34,53)",
+            "hex": "#782235",
+            "name": ""
+        },
+        {
+            "code": "HKS 21 K",
+            "rgb": "rgb(255,137,151)",
+            "hex": "#FF8997",
+            "name": ""
+        },
+        {
+            "code": "HKS 22 K",
+            "rgb": "rgb(254,68,58)",
+            "hex": "#FE443A",
+            "name": ""
+        },
+        {
+            "code": "HKS 23 K",
+            "rgb": "rgb(232,30,65)",
+            "hex": "#E81E41",
+            "name": ""
+        },
+        {
+            "code": "HKS 24 K",
+            "rgb": "rgb(202,47,86)",
+            "hex": "#CA2F56",
+            "name": ""
+        },
+        {
+            "code": "HKS 25 K",
+            "rgb": "rgb(211,34,93)",
+            "hex": "#D3225D",
+            "name": ""
+        },
+        {
+            "code": "HKS 26 K",
+            "rgb": "rgb(192,16,111)",
+            "hex": "#C0106F",
+            "name": ""
+        },
+        {
+            "code": "HKS 27 K",
+            "rgb": "rgb(231,0,151)",
+            "hex": "#E70097",
+            "name": ""
+        },
+        {
+            "code": "HKS 28 K",
+            "rgb": "rgb(178,32,82)",
+            "hex": "#B22052",
+            "name": ""
+        },
+        {
+            "code": "HKS 29 K",
+            "rgb": "rgb(155,52,142)",
+            "hex": "#9B348E",
+            "name": ""
+        },
+        {
+            "code": "HKS 31 K",
+            "rgb": "rgb(202,15,134)",
+            "hex": "#CA0F86",
+            "name": ""
+        },
+        {
+            "code": "HKS 32 K",
+            "rgb": "rgb(198,7,105)",
+            "hex": "#C60769",
+            "name": ""
+        },
+        {
+            "code": "HKS 33 K",
+            "rgb": "rgb(176,40,182)",
+            "hex": "#B028B6",
+            "name": ""
+        },
+        {
+            "code": "HKS 34 K",
+            "rgb": "rgb(110,59,144)",
+            "hex": "#6E3B90",
+            "name": ""
+        },
+        {
+            "code": "HKS 35 K",
+            "rgb": "rgb(79,71,142)",
+            "hex": "#4F478E",
+            "name": ""
+        },
+        {
+            "code": "HKS 36 K",
+            "rgb": "rgb(99,62,150)",
+            "hex": "#633E96",
+            "name": ""
+        },
+        {
+            "code": "HKS 37 K",
+            "rgb": "rgb(84,52,120)",
+            "hex": "#543478",
+            "name": ""
+        },
+        {
+            "code": "HKS 38 K",
+            "rgb": "rgb(35,60,76)",
+            "hex": "#233C4C",
+            "name": ""
+        },
+        {
+            "code": "HKS 39 K",
+            "rgb": "rgb(17,122,203)",
+            "hex": "#117ACB",
+            "name": ""
+        },
+        {
+            "code": "HKS 40 K",
+            "rgb": "rgb(0,154,183)",
+            "hex": "#009AB7",
+            "name": ""
+        },
+        {
+            "code": "HKS 41 K",
+            "rgb": "rgb(40,65,86)",
+            "hex": "#284156",
+            "name": ""
+        },
+        {
+            "code": "HKS 42 K",
+            "rgb": "rgb(47,83,167)",
+            "hex": "#2F53A7",
+            "name": ""
+        },
+        {
+            "code": "HKS 43 K",
+            "rgb": "rgb(44,87,210)",
+            "hex": "#2C57D2",
+            "name": ""
+        },
+        {
+            "code": "HKS 44 K",
+            "rgb": "rgb(0,120,184)",
+            "hex": "#0078B8",
+            "name": ""
+        },
+        {
+            "code": "HKS 45 K",
+            "rgb": "rgb(85,102,164)",
+            "hex": "#5566A4",
+            "name": ""
+        },
+        {
+            "code": "HKS 46 K",
+            "rgb": "rgb(39,150,182)",
+            "hex": "#2796B6",
+            "name": ""
+        },
+        {
+            "code": "HKS 47 K",
+            "rgb": "rgb(0,172,211)",
+            "hex": "#00ACD3",
+            "name": ""
+        },
+        {
+            "code": "HKS 48 K",
+            "rgb": "rgb(0,175,196)",
+            "hex": "#00AFC4",
+            "name": ""
+        },
+        {
+            "code": "HKS 49 K",
+            "rgb": "rgb(0,149,177)",
+            "hex": "#0095B1",
+            "name": ""
+        },
+        {
+            "code": "HKS 50 K",
+            "rgb": "rgb(0,210,226)",
+            "hex": "#00D2E2",
+            "name": ""
+        },
+        {
+            "code": "HKS 51 K",
+            "rgb": "rgb(0,170,160)",
+            "hex": "#00AAA0",
+            "name": ""
+        },
+        {
+            "code": "HKS 52 K",
+            "rgb": "rgb(0,168,163)",
+            "hex": "#00A8A3",
+            "name": ""
+        },
+        {
+            "code": "HKS 53 K",
+            "rgb": "rgb(0,206,157)",
+            "hex": "#00CE9D",
+            "name": ""
+        },
+        {
+            "code": "HKS 54 K",
+            "rgb": "rgb(0,152,100)",
+            "hex": "#009864",
+            "name": ""
+        },
+        {
+            "code": "HKS 55 K",
+            "rgb": "rgb(0,119,85)",
+            "hex": "#007755",
+            "name": ""
+        },
+        {
+            "code": "HKS 56 K",
+            "rgb": "rgb(0,102,81)",
+            "hex": "#006651",
+            "name": ""
+        },
+        {
+            "code": "HKS 57 K",
+            "rgb": "rgb(0,138,78)",
+            "hex": "#008A4E",
+            "name": ""
+        },
+        {
+            "code": "HKS 58 K",
+            "rgb": "rgb(57,106,55)",
+            "hex": "#396A37",
+            "name": ""
+        },
+        {
+            "code": "HKS 59 K",
+            "rgb": "rgb(0,138,125)",
+            "hex": "#008A7D",
+            "name": ""
+        },
+        {
+            "code": "HKS 60 K",
+            "rgb": "rgb(58,156,0)",
+            "hex": "#3A9C00",
+            "name": ""
+        },
+        {
+            "code": "HKS 61 K",
+            "rgb": "rgb(42,83,73)",
+            "hex": "#2A5349",
+            "name": ""
+        },
+        {
+            "code": "HKS 62 K",
+            "rgb": "rgb(105,106,25)",
+            "hex": "#696A19",
+            "name": ""
+        },
+        {
+            "code": "HKS 63 K",
+            "rgb": "rgb(70,122,64)",
+            "hex": "#467A40",
+            "name": ""
+        },
+        {
+            "code": "HKS 64 K",
+            "rgb": "rgb(0,165,19)",
+            "hex": "#00A513",
+            "name": ""
+        },
+        {
+            "code": "HKS 65 K",
+            "rgb": "rgb(70,187,0)",
+            "hex": "#46BB00",
+            "name": ""
+        },
+        {
+            "code": "HKS 66 K",
+            "rgb": "rgb(127,198,0)",
+            "hex": "#7FC600",
+            "name": ""
+        },
+        {
+            "code": "HKS 68 K",
+            "rgb": "rgb(252,199,0)",
+            "hex": "#FCC700",
+            "name": ""
+        },
+        {
+            "code": "HKS 69 K",
+            "rgb": "rgb(234,224,0)",
+            "hex": "#EAE000",
+            "name": ""
+        },
+        {
+            "code": "HKS 71 K",
+            "rgb": "rgb(240,169,48)",
+            "hex": "#F0A930",
+            "name": ""
+        },
+        {
+            "code": "HKS 72 K",
+            "rgb": "rgb(226,146,0)",
+            "hex": "#E29200",
+            "name": ""
+        },
+        {
+            "code": "HKS 73 K",
+            "rgb": "rgb(186,131,44)",
+            "hex": "#BA832C",
+            "name": ""
+        },
+        {
+            "code": "HKS 74 K",
+            "rgb": "rgb(146,106,36)",
+            "hex": "#926A24",
+            "name": ""
+        },
+        {
+            "code": "HKS 75 K",
+            "rgb": "rgb(133,109,42)",
+            "hex": "#856D2A",
+            "name": ""
+        },
+        {
+            "code": "HKS 76 K",
+            "rgb": "rgb(88,70,43)",
+            "hex": "#58462B",
+            "name": ""
+        },
+        {
+            "code": "HKS 77 K",
+            "rgb": "rgb(100,67,39)",
+            "hex": "#644327",
+            "name": ""
+        },
+        {
+            "code": "HKS 78 K",
+            "rgb": "rgb(122,66,40)",
+            "hex": "#7A4228",
+            "name": ""
+        },
+        {
+            "code": "HKS 81 K",
+            "rgb": "rgb(203,94,36)",
+            "hex": "#CB5E24",
+            "name": ""
+        },
+        {
+            "code": "HKS 82 K",
+            "rgb": "rgb(165,69,31)",
+            "hex": "#A5451F",
+            "name": ""
+        },
+        {
+            "code": "HKS 83 K",
+            "rgb": "rgb(126,69,49)",
+            "hex": "#7E4531",
+            "name": ""
+        },
+        {
+            "code": "HKS 84 K",
+            "rgb": "rgb(102,60,46)",
+            "hex": "#663C2E",
+            "name": ""
+        },
+        {
+            "code": "HKS 88 K",
+            "rgb": "rgb(35,34,27)",
+            "hex": "#23221B",
+            "name": ""
+        },
+        {
+            "code": "HKS 89 K",
+            "rgb": "rgb(183,173,141)",
+            "hex": "#B7AD8D",
+            "name": ""
+        },
+        {
+            "code": "HKS 90 K",
+            "rgb": "rgb(62,53,44)",
+            "hex": "#3E352C",
+            "name": ""
+        },
+        {
+            "code": "HKS 91 K",
+            "rgb": "rgb(173,185,166)",
+            "hex": "#ADB9A6",
+            "name": ""
+        },
+        {
+            "code": "HKS 92 K",
+            "rgb": "rgb(122,128,119)",
+            "hex": "#7A8077",
+            "name": ""
+        },
+        {
+            "code": "HKS 93 K",
+            "rgb": "rgb(80,90,89)",
+            "hex": "#505A59",
+            "name": ""
+        },
+        {
+            "code": "HKS 95 K",
+            "rgb": "rgb(160,163,151)",
+            "hex": "#A0A397",
+            "name": ""
+        },
+        {
+            "code": "HKS 96 K",
+            "rgb": "rgb(131,134,120)",
+            "hex": "#838678",
+            "name": ""
+        },
+        {
+            "code": "HKS 97 K",
+            "rgb": "rgb(58,65,54)",
+            "hex": "#3A4136",
+            "name": ""
+        }
+    ]
+}

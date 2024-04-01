@@ -1,0 +1,1204 @@
+{
+    "premier": [
+        {
+            "code": "PC 23",
+            "rgb": "rgb(252,255,212)",
+            "hex": "#020502",
+            "name": "Cream"
+        },
+        {
+            "code": "PC 131",
+            "rgb": "rgb(245,245,140)",
+            "hex": "#050500",
+            "name": "Deco Yellow"
+        },
+        {
+            "code": "PC 19",
+            "rgb": "rgb(247,247,3)",
+            "hex": "#070703",
+            "name": "Canary Yellow"
+        },
+        {
+            "code": "PC 21",
+            "rgb": "rgb(252,240,89)",
+            "hex": "#020009",
+            "name": "Tulip Yellow"
+        },
+        {
+            "code": "PC 17",
+            "rgb": "rgb(250,240,51)",
+            "hex": "#000001",
+            "name": "Sunburst Yellow"
+        },
+        {
+            "code": "PC 132",
+            "rgb": "rgb(255,212,115)",
+            "hex": "#050205",
+            "name": "Jasmine"
+        },
+        {
+            "code": "PC 18",
+            "rgb": "rgb(252,212,3)",
+            "hex": "#020203",
+            "name": "Yellow Ochre"
+        },
+        {
+            "code": "PC 123",
+            "rgb": "rgb(252,212,3)",
+            "hex": "#020203",
+            "name": "Spanish Orange"
+        },
+        {
+            "code": "PC 15",
+            "rgb": "rgb(252,168,3)",
+            "hex": "#020803",
+            "name": "Yellow Orange"
+        },
+        {
+            "code": "PC 14",
+            "rgb": "rgb(255,107,18)",
+            "hex": "#050708",
+            "name": "Pale Vermilion"
+        },
+        {
+            "code": "PC 16",
+            "rgb": "rgb(255,140,3)",
+            "hex": "#050003",
+            "name": "Orange"
+        },
+        {
+            "code": "PC 13",
+            "rgb": "rgb(255,84,61)",
+            "hex": "#050401",
+            "name": "Poppy Red"
+        },
+        {
+            "code": "PC 130",
+            "rgb": "rgb(255,186,140)",
+            "hex": "#050600",
+            "name": "Deco Orange"
+        },
+        {
+            "code": "PC 69",
+            "rgb": "rgb(237,166,112)",
+            "hex": "#070602",
+            "name": "Goldenrod"
+        },
+        {
+            "code": "PC 93",
+            "rgb": "rgb(245,166,64)",
+            "hex": "#050604",
+            "name": "Burnt Ochre"
+        },
+        {
+            "code": "PC 154",
+            "rgb": "rgb(255,168,48)",
+            "hex": "#050808",
+            "name": "Mineral Orange"
+        },
+        {
+            "code": "PC 153",
+            "rgb": "rgb(222,83,43)",
+            "hex": "#020303",
+            "name": "Pumpkin Orange"
+        },
+        {
+            "code": "PC 11",
+            "rgb": "rgb(255,222,222)",
+            "hex": "#050202",
+            "name": "Deco Peach"
+        },
+        {
+            "code": "PC 12",
+            "rgb": "rgb(255,222,212)",
+            "hex": "#050202",
+            "name": "Light Peach"
+        },
+        {
+            "code": "PC 122",
+            "rgb": "rgb(255,196,184)",
+            "hex": "#050604",
+            "name": "Salmon Pink"
+        },
+        {
+            "code": "PC 170",
+            "rgb": "rgb(255,140,140)",
+            "hex": "#050000",
+            "name": "Peach"
+        },
+        {
+            "code": "PC 78",
+            "rgb": "rgb(252,222,196)",
+            "hex": "#020206",
+            "name": "Brick Beige"
+        },
+        {
+            "code": "PC 70",
+            "rgb": "rgb(237,196,140)",
+            "hex": "#070600",
+            "name": "Sand"
+        },
+        {
+            "code": "PC 90",
+            "rgb": "rgb(219,148,133)",
+            "hex": "#090803",
+            "name": "Walnut"
+        },
+        {
+            "code": "PC 65",
+            "rgb": "rgb(212,106,114)",
+            "hex": "#020604",
+            "name": "Sienna Brown"
+        },
+        {
+            "code": "PC 150",
+            "rgb": "rgb(105,22,91)",
+            "hex": "#050201",
+            "name": "Mahogany Red"
+        },
+        {
+            "code": "PC 61",
+            "rgb": "rgb(57,23,22)",
+            "hex": "#070302",
+            "name": "Dark Umber"
+        },
+        {
+            "code": "PC 82",
+            "rgb": "rgb(237,107,112)",
+            "hex": "#070702",
+            "name": "Terra Cotta"
+        },
+        {
+            "code": "PC 86",
+            "rgb": "rgb(222,63,114)",
+            "hex": "#020304",
+            "name": "Cherry"
+        },
+        {
+            "code": "PC 6",
+            "rgb": "rgb(255,87,140)",
+            "hex": "#050700",
+            "name": "Carmine Red"
+        },
+        {
+            "code": "PC 5",
+            "rgb": "rgb(255,38,112)",
+            "hex": "#050802",
+            "name": "Scarlet Lake"
+        },
+        {
+            "code": "PC 4",
+            "rgb": "rgb(225,2,7)",
+            "hex": "#050207",
+            "name": "Crimson Red"
+        },
+        {
+            "code": "PC 152",
+            "rgb": "rgb(185,24,97)",
+            "hex": "#050407",
+            "name": "Henna"
+        },
+        {
+            "code": "PC 151",
+            "rgb": "rgb(174,7,101)",
+            "hex": "#040701",
+            "name": "Raspberry"
+        },
+        {
+            "code": "PC 10",
+            "rgb": "rgb(255,168,212)",
+            "hex": "#050802",
+            "name": "Blush Pink"
+        },
+        {
+            "code": "PC 73",
+            "rgb": "rgb(169,111,184)",
+            "hex": "#090104",
+            "name": "Flagstone Red"
+        },
+        {
+            "code": "PC 169",
+            "rgb": "rgb(148,45,123)",
+            "hex": "#080503",
+            "name": "Tuscan Red"
+        },
+        {
+            "code": "PC 1",
+            "rgb": "rgb(252,140,255)",
+            "hex": "#020005",
+            "name": "Process Red"
+        },
+        {
+            "code": "PC 8",
+            "rgb": "rgb(255,112,255)",
+            "hex": "#050205",
+            "name": "Pink"
+        },
+        {
+            "code": "PC 7",
+            "rgb": "rgb(255,61,245)",
+            "hex": "#050105",
+            "name": "Magenta"
+        },
+        {
+            "code": "PC 55",
+            "rgb": "rgb(245,3,252)",
+            "hex": "#050302",
+            "name": "Rhodamine"
+        },
+        {
+            "code": "PC 53",
+            "rgb": "rgb(196,13,255)",
+            "hex": "#060305",
+            "name": "Mulberry"
+        },
+        {
+            "code": "PC 133",
+            "rgb": "rgb(255,222,255)",
+            "hex": "#050205",
+            "name": "Deco Pink"
+        },
+        {
+            "code": "PC 208",
+            "rgb": "rgb(245,189,222)",
+            "hex": "#050902",
+            "name": "Ballet Pink"
+        },
+        {
+            "code": "PC 147",
+            "rgb": "rgb(196,184,255)",
+            "hex": "#060405",
+            "name": "Greyed Lavender"
+        },
+        {
+            "code": "PC 171",
+            "rgb": "rgb(166,166,255)",
+            "hex": "#060605",
+            "name": "Lilac"
+        },
+        {
+            "code": "PC 137",
+            "rgb": "rgb(209,138,255)",
+            "hex": "#090805",
+            "name": "Clay Rose"
+        },
+        {
+            "code": "PC 168",
+            "rgb": "rgb(40,0,223)",
+            "hex": "#000003",
+            "name": "Dark Purple"
+        },
+        {
+            "code": "PC 60",
+            "rgb": "rgb(184,212,255)",
+            "hex": "#040205",
+            "name": "Violet Mist"
+        },
+        {
+            "code": "PC 128",
+            "rgb": "rgb(112,140,255)",
+            "hex": "#020005",
+            "name": "Parma Violet"
+        },
+        {
+            "code": "PC 50",
+            "rgb": "rgb(38,15,252)",
+            "hex": "#080502",
+            "name": "Violet"
+        },
+        {
+            "code": "PC 134",
+            "rgb": "rgb(184,255,245)",
+            "hex": "#040505",
+            "name": "Deco Blue"
+        },
+        {
+            "code": "PC 48",
+            "rgb": "rgb(199,242,255)",
+            "hex": "#090205",
+            "name": "Light Cerulean Blue"
+        },
+        {
+            "code": "PC 202",
+            "rgb": "rgb(130,209,255)",
+            "hex": "#000905",
+            "name": "Sky Blue Light"
+        },
+        {
+            "code": "PC 39",
+            "rgb": "rgb(105,212,255)",
+            "hex": "#050205",
+            "name": "True Blue"
+        },
+        {
+            "code": "PC 40",
+            "rgb": "rgb(77,181,255)",
+            "hex": "#070105",
+            "name": "Copenhagen Blue"
+        },
+        {
+            "code": "PC 127",
+            "rgb": "rgb(87,122,247)",
+            "hex": "#070207",
+            "name": "Imperial Violet"
+        },
+        {
+            "code": "PC 44",
+            "rgb": "rgb(51,112,250)",
+            "hex": "#010200",
+            "name": "Ultramarine"
+        },
+        {
+            "code": "PC 42",
+            "rgb": "rgb(38,81,237)",
+            "hex": "#080107",
+            "name": "Violet Blue"
+        },
+        {
+            "code": "PC 43",
+            "rgb": "rgb(31,62,187)",
+            "hex": "#010207",
+            "name": "Indigo Blue"
+        },
+        {
+            "code": "PC 45",
+            "rgb": "rgb(6,29,143)",
+            "hex": "#060903",
+            "name": "Navy Blue"
+        },
+        {
+            "code": "PC 144",
+            "rgb": "rgb(214,235,252)",
+            "hex": "#040502",
+            "name": "Cloud Blue"
+        },
+        {
+            "code": "PC 194",
+            "rgb": "rgb(204,227,250)",
+            "hex": "#040700",
+            "name": "Cold Stone"
+        },
+        {
+            "code": "PC 145",
+            "rgb": "rgb(143,184,252)",
+            "hex": "#030402",
+            "name": "Blue Slate"
+        },
+        {
+            "code": "PC 146",
+            "rgb": "rgb(107,161,237)",
+            "hex": "#070107",
+            "name": "Periwinkle"
+        },
+        {
+            "code": "PC 143",
+            "rgb": "rgb(128,191,250)",
+            "hex": "#080100",
+            "name": "Mediterranean Blue"
+        },
+        {
+            "code": "PC 126",
+            "rgb": "rgb(128,186,255)",
+            "hex": "#080605",
+            "name": "Cerulean Blue"
+        },
+        {
+            "code": "PC 125",
+            "rgb": "rgb(44,118,186)",
+            "hex": "#040806",
+            "name": "Peacock Blue"
+        },
+        {
+            "code": "PC 191",
+            "rgb": "rgb(189,222,196)",
+            "hex": "#090206",
+            "name": "Pale Jade"
+        },
+        {
+            "code": "PC 140",
+            "rgb": "rgb(178,222,194)",
+            "hex": "#080204",
+            "name": "Celadon Green"
+        },
+        {
+            "code": "PC 185",
+            "rgb": "rgb(48,148,113)",
+            "hex": "#080803",
+            "name": "Spruce Green"
+        },
+        {
+            "code": "PC 142",
+            "rgb": "rgb(133,186,196)",
+            "hex": "#030606",
+            "name": "Brittany Blue"
+        },
+        {
+            "code": "PC 38",
+            "rgb": "rgb(82,162,167)",
+            "hex": "#020207",
+            "name": "Teal Blue"
+        },
+        {
+            "code": "PC 198",
+            "rgb": "rgb(176,230,242)",
+            "hex": "#060002",
+            "name": "Muted Turquoise"
+        },
+        {
+            "code": "PC 47",
+            "rgb": "rgb(153,232,235)",
+            "hex": "#030205",
+            "name": "Light Blue"
+        },
+        {
+            "code": "PC 46",
+            "rgb": "rgb(150,232,222)",
+            "hex": "#000202",
+            "name": "Light Aqua"
+        },
+        {
+            "code": "PC 37",
+            "rgb": "rgb(66,199,181)",
+            "hex": "#060901",
+            "name": "Aquamarine"
+        },
+        {
+            "code": "PC 166",
+            "rgb": "rgb(189,250,176)",
+            "hex": "#090006",
+            "name": "True Green"
+        },
+        {
+            "code": "PC 165",
+            "rgb": "rgb(83,225,96)",
+            "hex": "#030506",
+            "name": "Grass Green"
+        },
+        {
+            "code": "PC 193",
+            "rgb": "rgb(181,245,135)",
+            "hex": "#010505",
+            "name": "Mint Cream"
+        },
+        {
+            "code": "PC 167",
+            "rgb": "rgb(161,245,122)",
+            "hex": "#010502",
+            "name": "Apple Green"
+        },
+        {
+            "code": "PC 187",
+            "rgb": "rgb(101,215,35)",
+            "hex": "#010505",
+            "name": "Leaf Green"
+        },
+        {
+            "code": "PC 36",
+            "rgb": "rgb(186,240,176)",
+            "hex": "#060006",
+            "name": "Lime Green"
+        },
+        {
+            "code": "PC 184",
+            "rgb": "rgb(133,212,143)",
+            "hex": "#030203",
+            "name": "Forest Green"
+        },
+        {
+            "code": "PC 186",
+            "rgb": "rgb(47,205,45)",
+            "hex": "#070505",
+            "name": "Emerald"
+        },
+        {
+            "code": "PC 31",
+            "rgb": "rgb(64,180,55)",
+            "hex": "#040005",
+            "name": "Dark Green"
+        },
+        {
+            "code": "PC 195",
+            "rgb": "rgb(37,160,2)",
+            "hex": "#070002",
+            "name": "Spearmint"
+        },
+        {
+            "code": "PC 27",
+            "rgb": "rgb(214,255,120)",
+            "hex": "#040500",
+            "name": "Chartreuse"
+        },
+        {
+            "code": "PC 124",
+            "rgb": "rgb(212,250,94)",
+            "hex": "#020004",
+            "name": "Lime peel"
+        },
+        {
+            "code": "PC 192",
+            "rgb": "rgb(181,255,5)",
+            "hex": "#010505",
+            "name": "Avocado"
+        },
+        {
+            "code": "PC 25",
+            "rgb": "rgb(150,247,54)",
+            "hex": "#000704",
+            "name": "Spring Green"
+        },
+        {
+            "code": "PC 197",
+            "rgb": "rgb(112,200,0)",
+            "hex": "#020000",
+            "name": "Green Tea"
+        },
+        {
+            "code": "PC 26",
+            "rgb": "rgb(154,197,93)",
+            "hex": "#040703",
+            "name": "Light Olive Green"
+        },
+        {
+            "code": "PC 28",
+            "rgb": "rgb(76,159,22)",
+            "hex": "#060902",
+            "name": "Dark Olive Green"
+        },
+        {
+            "code": "PC 141",
+            "rgb": "rgb(166,224,204)",
+            "hex": "#060404",
+            "name": "Jade Green"
+        },
+        {
+            "code": "PC 212",
+            "rgb": "rgb(209,224,227)",
+            "hex": "#090407",
+            "name": "Pewter"
+        },
+        {
+            "code": "PC 32",
+            "rgb": "rgb(63,215,129)",
+            "hex": "#030509",
+            "name": "Parrot Green"
+        },
+        {
+            "code": "PC 206",
+            "rgb": "rgb(214,222,209)",
+            "hex": "#040209",
+            "name": "Ash Grey"
+        },
+        {
+            "code": "PC 203",
+            "rgb": "rgb(219,222,214)",
+            "hex": "#090204",
+            "name": "Driftwood"
+        },
+        {
+            "code": "PC 196",
+            "rgb": "rgb(242,245,204)",
+            "hex": "#020504",
+            "name": "Wheat"
+        },
+        {
+            "code": "PC 207",
+            "rgb": "rgb(245,240,196)",
+            "hex": "#050006",
+            "name": "Pale Peach"
+        },
+        {
+            "code": "PC 72",
+            "rgb": "rgb(250,245,214)",
+            "hex": "#000504",
+            "name": "Eggshell"
+        },
+        {
+            "code": "PC 96",
+            "rgb": "rgb(250,245,194)",
+            "hex": "#000504",
+            "name": "Blondwood"
+        },
+        {
+            "code": "PC 71",
+            "rgb": "rgb(235,240,235)",
+            "hex": "#050005",
+            "name": "Buff"
+        },
+        {
+            "code": "PC 201",
+            "rgb": "rgb(224,207,158)",
+            "hex": "#040708",
+            "name": "Cinnamon Toast"
+        },
+        {
+            "code": "PC 214",
+            "rgb": "rgb(55,67,12)",
+            "hex": "#050702",
+            "name": "Cocoa Bean"
+        },
+        {
+            "code": "PC 199",
+            "rgb": "rgb(149,142,81)",
+            "hex": "#090201",
+            "name": "Mocha Light"
+        },
+        {
+            "code": "PC 204",
+            "rgb": "rgb(147,165,140)",
+            "hex": "#070500",
+            "name": "Taupe"
+        },
+        {
+            "code": "PC 200",
+            "rgb": "rgb(62,62,10)",
+            "hex": "#020200",
+            "name": "Mocha Dark"
+        },
+        {
+            "code": "PC 79",
+            "rgb": "rgb(245,242,227)",
+            "hex": "#050207",
+            "name": "Brick White"
+        },
+        {
+            "code": "PC 210",
+            "rgb": "rgb(212,219,140)",
+            "hex": "#020900",
+            "name": "Oatmeal"
+        },
+        {
+            "code": "PC 205",
+            "rgb": "rgb(209,219,191)",
+            "hex": "#090901",
+            "name": "Parchment"
+        },
+        {
+            "code": "PC 80",
+            "rgb": "rgb(230,222,214)",
+            "hex": "#000204",
+            "name": "Putty"
+        },
+        {
+            "code": "PC 89",
+            "rgb": "rgb(217,204,181)",
+            "hex": "#070401",
+            "name": "Light Walnut"
+        },
+        {
+            "code": "PC 213",
+            "rgb": "rgb(40,13,26)",
+            "hex": "#000306",
+            "name": "Eggplant"
+        },
+        {
+            "code": "PC 95",
+            "rgb": "rgb(187,172,126)",
+            "hex": "#070206",
+            "name": "Light Tan"
+        },
+        {
+            "code": "PC 211",
+            "rgb": "rgb(19,24,23)",
+            "hex": "#090403",
+            "name": "Jet Black"
+        },
+        {
+            "code": "PC 62",
+            "rgb": "rgb(117,113,48)",
+            "hex": "#070308",
+            "name": "Sepia"
+        },
+        {
+            "code": "PC 172",
+            "rgb": "rgb(105,116,58)",
+            "hex": "#050608",
+            "name": "Light Umber"
+        },
+        {
+            "code": "PC 88",
+            "rgb": "rgb(111,117,59)",
+            "hex": "#010709",
+            "name": "Dark Brown"
+        },
+        {
+            "code": "PC 209",
+            "rgb": "rgb(191,194,135)",
+            "hex": "#010405",
+            "name": "Khaki"
+        },
+        {
+            "code": "PC 99",
+            "rgb": "rgb(252,252,252)",
+            "hex": "#020202",
+            "name": "Warm Grey 10%"
+        },
+        {
+            "code": "PC 100",
+            "rgb": "rgb(237,240,240)",
+            "hex": "#070000",
+            "name": "Warm Grey 20%"
+        },
+        {
+            "code": "PC 101",
+            "rgb": "rgb(232,232,237)",
+            "hex": "#020207",
+            "name": "Warm Grey 30%"
+        },
+        {
+            "code": "PC 102",
+            "rgb": "rgb(222,224,227)",
+            "hex": "#020407",
+            "name": "Warm Grey 40%"
+        },
+        {
+            "code": "PC 103",
+            "rgb": "rgb(178,186,191)",
+            "hex": "#080601",
+            "name": "Warm Grey 50%"
+        },
+        {
+            "code": "PC 104",
+            "rgb": "rgb(166,173,181)",
+            "hex": "#060301",
+            "name": "Warm Grey 60%"
+        },
+        {
+            "code": "PC 105",
+            "rgb": "rgb(117,127,134)",
+            "hex": "#070704",
+            "name": "Warm Grey 70%"
+        },
+        {
+            "code": "PC 106",
+            "rgb": "rgb(74,78,87)",
+            "hex": "#040807",
+            "name": "Warm Grey 80%"
+        },
+        {
+            "code": "PC 107",
+            "rgb": "rgb(35,36,43)",
+            "hex": "#050603",
+            "name": "Warm Grey 90%"
+        },
+        {
+            "code": "PC 97",
+            "rgb": "rgb(6,8,8)",
+            "hex": "#060808",
+            "name": "Warm Black"
+        },
+        {
+            "code": "PC 108",
+            "rgb": "rgb(240,244,246)",
+            "hex": "#000406",
+            "name": "Cool Grey 10%"
+        },
+        {
+            "code": "PC 109",
+            "rgb": "rgb(229,236,239)",
+            "hex": "#090609",
+            "name": "Cool Grey 20%"
+        },
+        {
+            "code": "PC 110",
+            "rgb": "rgb(207,220,227)",
+            "hex": "#070007",
+            "name": "Cool Grey 30%"
+        },
+        {
+            "code": "PC 111",
+            "rgb": "rgb(187,198,205)",
+            "hex": "#070805",
+            "name": "Cool Grey 40%"
+        },
+        {
+            "code": "PC 112",
+            "rgb": "rgb(165,176,183)",
+            "hex": "#050603",
+            "name": "Cool Grey 50%"
+        },
+        {
+            "code": "PC 113",
+            "rgb": "rgb(139,160,172)",
+            "hex": "#090002",
+            "name": "Cool Grey 60%"
+        },
+        {
+            "code": "PC 114",
+            "rgb": "rgb(104,128,141)",
+            "hex": "#040801",
+            "name": "Cool Grey 70%"
+        },
+        {
+            "code": "PC 115",
+            "rgb": "rgb(81,101,112)",
+            "hex": "#010102",
+            "name": "Cool Grey 80%"
+        },
+        {
+            "code": "PC 116",
+            "rgb": "rgb(54,70,78)",
+            "hex": "#040008",
+            "name": "Cool Grey 90%"
+        },
+        {
+            "code": "PC 98",
+            "rgb": "rgb(6,8,8)",
+            "hex": "#060808",
+            "name": "Black"
+        },
+        {
+            "code": "PC 155",
+            "rgb": "rgb(245,242,240)",
+            "hex": "#050200",
+            "name": "French Grey 10%"
+        },
+        {
+            "code": "PC 156",
+            "rgb": "rgb(232,232,230)",
+            "hex": "#020200",
+            "name": "French Grey 20%"
+        },
+        {
+            "code": "PC 157",
+            "rgb": "rgb(204,207,199)",
+            "hex": "#040709",
+            "name": "French Grey 30%"
+        },
+        {
+            "code": "PC 158",
+            "rgb": "rgb(181,186,184)",
+            "hex": "#010604",
+            "name": "French Grey 40%"
+        },
+        {
+            "code": "PC 159",
+            "rgb": "rgb(164,164,164)",
+            "hex": "#040404",
+            "name": "French Grey 50%"
+        },
+        {
+            "code": "PC 160",
+            "rgb": "rgb(147,152,152)",
+            "hex": "#070202",
+            "name": "French Grey 60%"
+        },
+        {
+            "code": "PC 161",
+            "rgb": "rgb(117,124,124)",
+            "hex": "#070404",
+            "name": "French Grey 70%"
+        },
+        {
+            "code": "PC 162",
+            "rgb": "rgb(76,82,84)",
+            "hex": "#060204",
+            "name": "French Grey 80%"
+        },
+        {
+            "code": "PC 163",
+            "rgb": "rgb(39,42,44)",
+            "hex": "#090204",
+            "name": "French Grey 90%"
+        },
+        {
+            "code": "PC 121",
+            "rgb": "rgb(255,255,255)",
+            "hex": "#050505",
+            "name": "Colorless Blender"
+        },
+        {
+            "code": "PC 117",
+            "rgb": "rgb(149,169,167)",
+            "hex": "#090907",
+            "name": "Metallic Silver Broad"
+        },
+        {
+            "code": "PC 118",
+            "rgb": "rgb(149,169,167)",
+            "hex": "#090907",
+            "name": "Metallic Silver Fine"
+        },
+        {
+            "code": "PC 119",
+            "rgb": "rgb(162,177,87)",
+            "hex": "#020707",
+            "name": "Metallic Gold Broad"
+        },
+        {
+            "code": "PC 120",
+            "rgb": "rgb(162,177,87)",
+            "hex": "#020707",
+            "name": "Metallic Gold Fine"
+        },
+        {
+            "code": "PC 149",
+            "rgb": "rgb(154,169,0)",
+            "hex": "#040900",
+            "name": "Bronze"
+        },
+        {
+            "code": "PC 216",
+            "rgb": "rgb(221,220,221)",
+            "hex": "#010001",
+            "name": "Neutral Grey 10%"
+        },
+        {
+            "code": "PC 217",
+            "rgb": "rgb(196,195,198)",
+            "hex": "#060508",
+            "name": "Neutral Grey 20%"
+        },
+        {
+            "code": "PC 218",
+            "rgb": "rgb(174,172,176)",
+            "hex": "#040206",
+            "name": "Neutral Grey 30%"
+        },
+        {
+            "code": "PC 219",
+            "rgb": "rgb(153,151,157)",
+            "hex": "#030107",
+            "name": "Neutral Grey 40%"
+        },
+        {
+            "code": "PC 220",
+            "rgb": "rgb(134,132,139)",
+            "hex": "#040209",
+            "name": "Neutral Grey 50%"
+        },
+        {
+            "code": "PC 221",
+            "rgb": "rgb(116,115,122)",
+            "hex": "#060502",
+            "name": "Neutral Grey 60%"
+        },
+        {
+            "code": "PC 222",
+            "rgb": "rgb(100,99,107)",
+            "hex": "#000907",
+            "name": "Neutral Grey 70%"
+        },
+        {
+            "code": "PC 223",
+            "rgb": "rgb(85,86,93)",
+            "hex": "#050603",
+            "name": "Neutral Grey 80%"
+        },
+        {
+            "code": "PC 224",
+            "rgb": "rgb(70,73,81)",
+            "hex": "#000301",
+            "name": "Neutral Grey 90%"
+        },
+        {
+            "code": "PC 24",
+            "rgb": "rgb(251,241,234)",
+            "hex": "#010104",
+            "name": "Almond Milk"
+        },
+        {
+            "code": "PC 3",
+            "rgb": "rgb(245,223,225)",
+            "hex": "#050305",
+            "name": "Ballet Pink Light"
+        },
+        {
+            "code": "PC 9",
+            "rgb": "rgb(238,203,205)",
+            "hex": "#080305",
+            "name": "Blush Pink Light"
+        },
+        {
+            "code": "PC 20",
+            "rgb": "rgb(255,246,153)",
+            "hex": "#050603",
+            "name": "Canary Yellow Light"
+        },
+        {
+            "code": "PC 260",
+            "rgb": "rgb(225,157,148)",
+            "hex": "#050708",
+            "name": "Carmine Red Light"
+        },
+        {
+            "code": "PC 230",
+            "rgb": "rgb(240,203,167)",
+            "hex": "#000307",
+            "name": "Deco Orange Light"
+        },
+        {
+            "code": "PC 233",
+            "rgb": "rgb(247,230,239)",
+            "hex": "#070009",
+            "name": "Deco Pink Light"
+        },
+        {
+            "code": "PC 136",
+            "rgb": "rgb(241,216,213)",
+            "hex": "#010603",
+            "name": "Dusty Rose"
+        },
+        {
+            "code": "PC 148",
+            "rgb": "rgb(226,218,236)",
+            "hex": "#060806",
+            "name": "Greyed Lavender Light"
+        },
+        {
+            "code": "PC 271",
+            "rgb": "rgb(228,213,192)",
+            "hex": "#080302",
+            "name": "Light Umber 20%"
+        },
+        {
+            "code": "PC 272",
+            "rgb": "rgb(222,203,178)",
+            "hex": "#020308",
+            "name": "Light Umber 30%"
+        },
+        {
+            "code": "PC 273",
+            "rgb": "rgb(209,191,172)",
+            "hex": "#090102",
+            "name": "Light Umber 40%"
+        },
+        {
+            "code": "PC 274",
+            "rgb": "rgb(203,182,161)",
+            "hex": "#030201",
+            "name": "Light Umber 50%"
+        },
+        {
+            "code": "PC 275",
+            "rgb": "rgb(196,173,150)",
+            "hex": "#060300",
+            "name": "Light Umber 60%"
+        },
+        {
+            "code": "PC 276",
+            "rgb": "rgb(189,163,138)",
+            "hex": "#090308",
+            "name": "Light Umber 70%"
+        },
+        {
+            "code": "PC 277",
+            "rgb": "rgb(182,155,128)",
+            "hex": "#020508",
+            "name": "Light Umber 80%"
+        },
+        {
+            "code": "PC 278",
+            "rgb": "rgb(138,116,85)",
+            "hex": "#080605",
+            "name": "Light Umber 90%"
+        },
+        {
+            "code": "PC 173",
+            "rgb": "rgb(157,150,197)",
+            "hex": "#070007",
+            "name": "Lilac Light"
+        },
+        {
+            "code": "PC 52",
+            "rgb": "rgb(213,173,205)",
+            "hex": "#030305",
+            "name": "Mulberry Light"
+        },
+        {
+            "code": "PC 179",
+            "rgb": "rgb(19,154,202)",
+            "hex": "#090402",
+            "name": "Neon Blue"
+        },
+        {
+            "code": "PC 181",
+            "rgb": "rgb(168,200,96)",
+            "hex": "#080006",
+            "name": "Neon Green"
+        },
+        {
+            "code": "PC 175",
+            "rgb": "rgb(239,194,83)",
+            "hex": "#090403",
+            "name": "Neon Orange"
+        },
+        {
+            "code": "PC 177",
+            "rgb": "rgb(195,106,161)",
+            "hex": "#050601",
+            "name": "Neon Pink"
+        },
+        {
+            "code": "PC 174",
+            "rgb": "rgb(252,232,36)",
+            "hex": "#020206",
+            "name": "Neon Yellow"
+        },
+        {
+            "code": "PC 180",
+            "rgb": "rgb(246,237,99)",
+            "hex": "#060709",
+            "name": "Neon Yellow Green"
+        },
+        {
+            "code": "PC 33",
+            "rgb": "rgb(129,189,181)",
+            "hex": "#090901",
+            "name": "Parrot Green Light"
+        },
+        {
+            "code": "PC 280",
+            "rgb": "rgb(224,163,196)",
+            "hex": "#040306",
+            "name": "Pink Light"
+        },
+        {
+            "code": "PC 2",
+            "rgb": "rgb(231,187,212)",
+            "hex": "#010702",
+            "name": "Process Red Light"
+        },
+        {
+            "code": "PC 56",
+            "rgb": "rgb(148,36,127)",
+            "hex": "#080607",
+            "name": "Rhodamine Dark"
+        },
+        {
+            "code": "PC 54",
+            "rgb": "rgb(217,155,191)",
+            "hex": "#070501",
+            "name": "Rhodamine Light"
+        },
+        {
+            "code": "PC 81",
+            "rgb": "rgb(26,131,197)",
+            "hex": "#060107",
+            "name": "Turquoise Dark"
+        },
+        {
+            "code": "PC 244",
+            "rgb": "rgb(138,174,220)",
+            "hex": "#080400",
+            "name": "Ultramarine Light"
+        },
+        {
+            "code": "PC 41",
+            "rgb": "rgb(212,176,225)",
+            "hex": "#020605",
+            "name": "Violet Blue Light"
+        },
+        {
+            "code": "PC 51",
+            "rgb": "rgb(63,62,139)",
+            "hex": "#030209",
+            "name": "Violet Dark"
+        },
+        {
+            "code": "PC 215",
+            "rgb": "rgb(239,194,83)",
+            "hex": "#090403",
+            "name": "Yellow Orange Light"
+        }
+    ]
+}
