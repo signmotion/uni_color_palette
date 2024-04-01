@@ -201,6 +201,8 @@ Once you start using the **UniColorPalette**, it will become easy to choose the 
 
 - Color names for base color? [1](https://louisem.com/29880/color-thesaurus-infographic)
 
+- More names in different lanuages? [1](https://rgb.to/ral/6038)
+
 It's just a habit of mine: writing down ideas that come to mind while working on a project. I confess that I rarely return to these notes. But now, hopefully, even if you don't have an idea yet, the above notes will help you choose the suitable "feature" and become a contributor to the open-source community.
 
 Created [with ❤️](https://syrokomskyi.com)
