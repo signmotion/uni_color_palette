@@ -43,7 +43,7 @@ I know 949 colors.
 154406
 ```
 
-See also `example/all_palettes` folder with Flutter example that visualize any color palette.
+See also `example/all_palettes` and `example/all_colors` folder with Flutter examples that visualize any color palette.
 
 [<img src="https://raw.githubusercontent.com/signmotion/uni_color_palette/master/images/screenshots/all_colors.webp" width="400"/>](https://raw.githubusercontent.com/signmotion/uni_color_palette/master/images/screenshots/all_colors.webp)
 
@@ -52,7 +52,7 @@ See also `example/all_palettes` folder with Flutter example that visualize any c
 ### Commodore_64
 
 <details>
-  <summary> 16 colors</summary>
+  <summary>16 colors</summary>
 black, blue, brown, cyan, dark-gray, green, light blue, light green, light red, light-gray, mid-gray, orange, purple, red, white, yellow
 </details>
 
