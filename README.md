@@ -33,7 +33,7 @@ Share some ❤️ and star repo to support the project.
 ## Usage
 
 ```dart
-final palette = UniPalette(zeplinColors);
+final palette = zeplinPalette;
 print('I know ${palette.count} colors.');
 print(palette['forrest green']);
 ```
