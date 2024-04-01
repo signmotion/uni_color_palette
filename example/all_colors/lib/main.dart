@@ -5,16 +5,16 @@ import 'package:uni_color_palette/uni_color_palette.dart';
 /// You can choose any palette.
 void main() => runApp(App(
       palettes: [
-        UniPalette(commodore64Colors),
-        UniPalette(ralColors),
-        //UniPalette(zeplinColors),
+        commodore64Palette,
+        ralPalette,
+        // zeplinPalette,
       ],
     ));
 
 class App extends StatelessWidget {
   const App({super.key, required this.palettes});
 
-  final List<UniPalette<UniColor>> palettes;
+  final List<UniPalette<int>> palettes;
 
   @override
   Widget build(BuildContext context) => MaterialApp(

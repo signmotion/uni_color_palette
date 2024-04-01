@@ -3,9 +3,7 @@ import 'package:uni_color_palette/uni_color_palette.dart';
 
 /// See also `example/main.dart` file with pure Dart SDK example.
 /// You can choose any palette.
-void main() => runApp(App(
-      palette: UniPalette(zeplinColors),
-    ));
+void main() => runApp(App(palette: zeplinPalette));
 
 class App extends StatelessWidget {
   const App({super.key, required this.palette});
