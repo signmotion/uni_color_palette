@@ -12,23 +12,23 @@
 [![Issues](https://img.shields.io/github/issues/signmotion/uni_color_palette?logo=github&logoColor=white)](https://github.com/signmotion/uni_color_palette/issues)
 [![Pub Score](https://img.shields.io/pub/points/uni_color_palette?logo=dart&logoColor=00b9fc)](https://pub.dev/packages/uni_color_palette/score)
 
-The amazing color palettes with links to original sources.
+The amazing color palettes - Pantone, RAL, Zeplin, Commodore 64, etc. - with links to original sources.
 The easy-to-use package.
 Feel free to use it in your awesome projects.
+
+Share some ❤️ and star repo to support the project.
 
 The [UniColorName](https://github.com/signmotion/uni_color_name) package supports a fuzzy search for a color by value and name.
 
 [<img src="https://raw.githubusercontent.com/signmotion/uni_color_model/master/images/dependencies.webp"/>](https://raw.githubusercontent.com/signmotion/uni_color_model/master/images/dependencies.webp)
 
-| Android | iOS | Linux | MacOS | Web | Windows |              |
-| :-----: | :-: | :---: | :---: | :-: | :-----: | :----------- |
-|   ✅    | ✅  |  ✅   |  ✅   |  ✘  |   ✅    | **platform** |
+| Android | iOS | Linux | MacOS | Windows |              |
+| :-----: | :-: | :---: | :---: | :-----: | :----------- |
+|   ✅    | ✅  |  ✅   |  ✅   |   ✅    | **platform** |
 
 | Dart | Flutter |         |
 | :--: | :-----: | :------ |
 |  ✅  |   ✅    | **SDK** |
-
-Share some ❤️ and star repo to support the project.
 
 ## Usage
 
