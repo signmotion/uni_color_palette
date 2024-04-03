@@ -373,10 +373,10 @@ packages:
     dependency: "direct main"
     description:
       name: uni_color_model
-      sha256: "93ea6e22c951906a2551c6de52a57e3f20c720777a126055ab645889d9181fc8"
+      sha256: "832b43a89ba14084acb654aac95875f0beacd6d6703eed2fe956ee45a2df335c"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.0"
+    version: "0.2.0"
   vector_math:
     dependency: transitive
     description:
@@ -429,10 +429,10 @@ packages:
     dependency: transitive
     description:
       name: wfile
-      sha256: "2be73888b0c625426947c90fa8b54f7dc7e6e031673c6baea1de8a17b890e93f"
+      sha256: "839cb75d3402549e89e73afd436e0158968dc43dc3ebf9e9a51fd12f12c16cfe"
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.1"
+    version: "0.4.2"
   xml:
     dependency: transitive
     description:
