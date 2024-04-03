@@ -3,6 +3,10 @@
 All notable changes to the project `UniColorPalette` will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.2.1
+
+- Fixed CI build.
+
 ## 0.2.0
 
 - Added name, license, and source to palettes.
